@@ -3,7 +3,7 @@ import pandas as pd
 import psycopg2
 import chardet
 
-caminho_arquivo = "/home/juniorsilvadev/engenharia-dados/engenharia-dados-com-python-e-banco-de-dados/PostgreSQL/Arquivos JSON/V_OCORRENCIA_AMPLA.json"
+caminho_arquivo = "/home/juniorsilvadev/engenharia-dados/engenharia-dados-com-python-e-banco-de-dados/PostgreSQL/Arquivos/V_OCORRENCIA_AMPLA.json"
 
 with open(caminho_arquivo, "rb") as f:
     raw_data = f.read(10000)
