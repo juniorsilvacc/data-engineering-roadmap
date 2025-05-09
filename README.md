@@ -4,6 +4,7 @@ Este repositório é o meu caderno de estudos sobre engenharia de dados. Aqui co
 
 ## 🗂️ Organização
 
+```
 /engenharia-dados/
 ├── engenharia-dados-com-python-e-banco-de-dados/
 ├── python-etl/
@@ -13,6 +14,7 @@ Este repositório é o meu caderno de estudos sobre engenharia de dados. Aqui co
 ├── pipelines.md
 ├── arquitetura-dados.md
 └── conceitos-snowflake.md
+```
 
 ## 📚 Cursos que estou estudando
 
