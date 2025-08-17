@@ -6,17 +6,23 @@ Este repositório é o meu caderno de estudos sobre engenharia de dados. Aqui co
 
 ```
 /engenharia-dados/
-├── engenharia-dados-com-python-e-banco-de-dados/
-├── python-etl/
-└── bancos-de-dados/
-/resumos/
+├── projetos/                  
+│   ├── 01-elt-1b/             
+│   ├── 02-pipeline-dados/
+│   └── ...
+├── estudos/
+│   ├── engenharia_dados_python_banco_dados/
+│   ├── analise_dados/
+│   ├── python_etl/
+│   └── ...
+├── resumos/
 ├── engenharia-de-dados.md
 ├── pipelines.md
 ├── arquitetura-dados.md
 └── conceitos-snowflake.md
 ```
 
-## 📚 Cursos que estou estudando
+## 📚 Cursos de aprendizado
 
 - [ ] SQL Completo Para Análise de Dados
 - [ ] Python-Banco de Dados, ETL Avançado e Automoção Web + GitHub
@@ -28,9 +34,12 @@ Este repositório é o meu caderno de estudos sobre engenharia de dados. Aqui co
 - [ ] SQL Server Integration Services (SSIS) - ETL Avançado
 - [ ] Formação Engenharia de Dados: Domine Big Data!
 - [ ] Bootcamp Engenharia de Dados: Construa um Projeto Real
-- [ ] Formação Spark com Pyspark: o Curso Completo
-- [ ] Domine Apache Airflow: Pipelines de Engenharia de Dados
-- [ ] Projeto Real de Engenharia de Dados: Real Time Analytics
+- [ ] Excel Fundamentos
+- [ ] Excel Intermediário
+- [ ] Excel Avançado
+- [ ] Excel PowerBI
+- [ ] Dashboards Personalizados PowerBI + Figma
+- [ ] Analise de Dados com Python e Pandas
 
 ## 🛠️ Tecnologias
 
@@ -44,9 +53,8 @@ Este repositório é o meu caderno de estudos sobre engenharia de dados. Aqui co
 | Spark / PySpark    | Processamento distribuído e Big Data       |
 | MongoDB            | Banco de dados NoSQL orientado a documentos|
 | Snowflake          | Data Warehouse na nuvem                    |
-| BigQuery           | Armazenamento e análise em larga escala    |
+| BigQuery           | Data Warehouse da Google Cloud Platform    |
 | AWS S3             | Armazenamento de dados em nuvem (Data Lake)|
-| AWS Redshift       | Data Warehouse na AWS                      |
 | Databricks         | Plataforma unificada para engenharia e ML  |
 
 ---
