@@ -1,12 +1,11 @@
 # 🛠️ Data Engineering Roadmap
 Este repositório é o meu caderno de estudos sobre Análise de Dados com complementos de Engenharia de Dados. Aqui compartilho conteúdos, exercícios, projetos e anotações organizados por temas.
 
-# 🚀 Objetivo
+## 🚀 Objetivo
 - Análise de Dados: focar em SQL, Python, Pandas, Excel, Power BI e estatística aplicada.
 - Engenharia de Dados (apoio): aprender conceitos essenciais de ETL, orquestração (Airflow), data warehouses (Snowflake, BigQuery), e boas práticas de pipelines.
 - Prática: construir pequenos projetos práticos para aplicar os conhecimentos.
 
-# Áreas abordadas:
 ## 🗂️ Organização do Repositório
 ```
 /engenharia-dados/
@@ -59,6 +58,4 @@ Este repositório é o meu caderno de estudos sobre Análise de Dados com comple
 
 ---
 
-📌 Nota:
-Este repositório não tem foco em projetos complexos prontos.
-Ele é voltado para aprendizado contínuo com anotações, estudos e mini-projetos práticos.
+> Este repositório é voltado para aprendizado contínuo com anotações, estudos e mini-projetos práticos.
