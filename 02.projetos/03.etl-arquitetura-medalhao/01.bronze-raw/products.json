@@ -1,0 +1,2802 @@
+[
+  {
+    "id": 1,
+    "nome": "Produto 1",
+    "categoria": "Informática",
+    "preco": 4504.89,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 254,
+    "avaliacao": 4.1,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Produto 2",
+    "categoria": "Acessórios",
+    "preco": 6172.74,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 393,
+    "avaliacao": 4.6,
+    "tags": [
+      "premium",
+      "promoção"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Produto 3",
+    "categoria": "Eletrônicos",
+    "preco": 6540.51,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 11,
+    "avaliacao": 3.0,
+    "tags": [
+      "mais vendido",
+      "novo"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Produto 4",
+    "categoria": "Acessórios",
+    "preco": 5401.97,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 329,
+    "avaliacao": 5.0,
+    "tags": [
+      "promoção",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Produto 5",
+    "categoria": "Informática",
+    "preco": 1798.12,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 145,
+    "avaliacao": 3.0,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Produto 6",
+    "categoria": "Eletrônicos",
+    "preco": 2641.03,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 479,
+    "avaliacao": 3.6,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Produto 7",
+    "categoria": "Acessórios",
+    "preco": 1168.14,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 200,
+    "avaliacao": 4.1,
+    "tags": [
+      "mais vendido",
+      "premium"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Produto 8",
+    "categoria": "Eletrônicos",
+    "preco": 774.93,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 48,
+    "avaliacao": 3.7,
+    "tags": [
+      "novo",
+      "promoção"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Produto 9",
+    "categoria": "Eletrônicos",
+    "preco": 4130.6,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 339,
+    "avaliacao": 4.3,
+    "tags": [
+      "promoção",
+      "novo"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Produto 10",
+    "categoria": "Acessórios",
+    "preco": 6345.0,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 319,
+    "avaliacao": 4.7,
+    "tags": [
+      "novo",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Produto 11",
+    "categoria": "Acessórios",
+    "preco": 7234.15,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 269,
+    "avaliacao": 4.8,
+    "tags": [
+      "premium",
+      "promoção"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Produto 12",
+    "categoria": "Acessórios",
+    "preco": 8735.93,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 433,
+    "avaliacao": 3.0,
+    "tags": [
+      "premium",
+      "promoção"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Produto 13",
+    "categoria": "Eletrônicos",
+    "preco": 2108.48,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 90,
+    "avaliacao": 4.6,
+    "tags": [
+      "premium",
+      "promoção"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Produto 14",
+    "categoria": "Acessórios",
+    "preco": 6671.06,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 164,
+    "avaliacao": 4.8,
+    "tags": [
+      "novo",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Produto 15",
+    "categoria": "Acessórios",
+    "preco": 2573.05,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 487,
+    "avaliacao": 4.8,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Produto 16",
+    "categoria": "Informática",
+    "preco": 2600.7,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 226,
+    "avaliacao": 4.4,
+    "tags": [
+      "premium",
+      "novo"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Produto 17",
+    "categoria": "Informática",
+    "preco": 4908.6,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 327,
+    "avaliacao": 4.4,
+    "tags": [
+      "premium",
+      "novo"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Produto 18",
+    "categoria": "Eletrônicos",
+    "preco": 7171.41,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 421,
+    "avaliacao": 4.6,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Produto 19",
+    "categoria": "Informática",
+    "preco": 2462.14,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 222,
+    "avaliacao": 3.9,
+    "tags": [
+      "premium",
+      "promoção"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Produto 20",
+    "categoria": "Informática",
+    "preco": 3279.48,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 98,
+    "avaliacao": 4.2,
+    "tags": [
+      "promoção",
+      "novo"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Produto 21",
+    "categoria": "Informática",
+    "preco": 6610.66,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 319,
+    "avaliacao": 3.7,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Produto 22",
+    "categoria": "Acessórios",
+    "preco": 2267.66,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 452,
+    "avaliacao": 3.5,
+    "tags": [
+      "premium",
+      "novo"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Produto 23",
+    "categoria": "Informática",
+    "preco": 2963.53,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 137,
+    "avaliacao": 4.3,
+    "tags": [
+      "promoção",
+      "premium"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Produto 24",
+    "categoria": "Acessórios",
+    "preco": 5981.7,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 37,
+    "avaliacao": 4.5,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Produto 25",
+    "categoria": "Acessórios",
+    "preco": 4321.13,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 453,
+    "avaliacao": 4.0,
+    "tags": [
+      "mais vendido",
+      "premium"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Produto 26",
+    "categoria": "Acessórios",
+    "preco": 2237.75,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 92,
+    "avaliacao": 4.5,
+    "tags": [
+      "novo",
+      "promoção"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Produto 27",
+    "categoria": "Informática",
+    "preco": 1997.07,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 126,
+    "avaliacao": 4.0,
+    "tags": [
+      "promoção",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Produto 28",
+    "categoria": "Eletrônicos",
+    "preco": 1769.71,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 231,
+    "avaliacao": 4.2,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Produto 29",
+    "categoria": "Eletrônicos",
+    "preco": 5283.43,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 341,
+    "avaliacao": 3.3,
+    "tags": [
+      "novo",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Produto 30",
+    "categoria": "Acessórios",
+    "preco": 4410.48,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 243,
+    "avaliacao": 3.7,
+    "tags": [
+      "promoção",
+      "premium"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Produto 31",
+    "categoria": "Acessórios",
+    "preco": 8749.71,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 27,
+    "avaliacao": 4.1,
+    "tags": [
+      "mais vendido",
+      "novo"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Produto 32",
+    "categoria": "Eletrônicos",
+    "preco": 4912.94,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 282,
+    "avaliacao": 3.6,
+    "tags": [
+      "promoção",
+      "novo"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Produto 33",
+    "categoria": "Acessórios",
+    "preco": 6361.28,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 171,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendido",
+      "promoção"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Produto 34",
+    "categoria": "Informática",
+    "preco": 8371.64,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 415,
+    "avaliacao": 4.2,
+    "tags": [
+      "promoção",
+      "premium"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Produto 35",
+    "categoria": "Informática",
+    "preco": 8025.71,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 426,
+    "avaliacao": 3.7,
+    "tags": [
+      "promoção",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Produto 36",
+    "categoria": "Acessórios",
+    "preco": 4190.87,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 270,
+    "avaliacao": 4.3,
+    "tags": [
+      "premium",
+      "novo"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Produto 37",
+    "categoria": "Acessórios",
+    "preco": 3886.31,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 257,
+    "avaliacao": 3.1,
+    "tags": [
+      "novo",
+      "promoção"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Produto 38",
+    "categoria": "Acessórios",
+    "preco": 3102.62,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 484,
+    "avaliacao": 3.2,
+    "tags": [
+      "promoção",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Produto 39",
+    "categoria": "Acessórios",
+    "preco": 7733.52,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 84,
+    "avaliacao": 3.5,
+    "tags": [
+      "mais vendido",
+      "premium"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Produto 40",
+    "categoria": "Informática",
+    "preco": 7022.9,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 85,
+    "avaliacao": 4.2,
+    "tags": [
+      "premium",
+      "promoção"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Produto 41",
+    "categoria": "Eletrônicos",
+    "preco": 6318.7,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 406,
+    "avaliacao": 4.0,
+    "tags": [
+      "mais vendido",
+      "novo"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Produto 42",
+    "categoria": "Eletrônicos",
+    "preco": 3298.63,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 280,
+    "avaliacao": 4.4,
+    "tags": [
+      "promoção",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Produto 43",
+    "categoria": "Informática",
+    "preco": 6510.13,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 9,
+    "avaliacao": 4.3,
+    "tags": [
+      "novo",
+      "promoção"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Produto 44",
+    "categoria": "Acessórios",
+    "preco": 6630.04,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 253,
+    "avaliacao": 3.1,
+    "tags": [
+      "novo",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Produto 45",
+    "categoria": "Informática",
+    "preco": 1891.28,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 18,
+    "avaliacao": 3.2,
+    "tags": [
+      "promoção",
+      "premium"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Produto 46",
+    "categoria": "Eletrônicos",
+    "preco": 1611.08,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 497,
+    "avaliacao": 4.8,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Produto 47",
+    "categoria": "Informática",
+    "preco": 4746.25,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 67,
+    "avaliacao": 4.7,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Produto 48",
+    "categoria": "Eletrônicos",
+    "preco": 4089.28,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 26,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendido",
+      "novo"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Produto 49",
+    "categoria": "Eletrônicos",
+    "preco": 1719.47,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 291,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendido",
+      "promoção"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Produto 50",
+    "categoria": "Eletrônicos",
+    "preco": 5714.49,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 165,
+    "avaliacao": 4.0,
+    "tags": [
+      "mais vendido",
+      "premium"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Produto 51",
+    "categoria": "Eletrônicos",
+    "preco": 6407.55,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 121,
+    "avaliacao": 3.7,
+    "tags": [
+      "premium",
+      "novo"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Produto 52",
+    "categoria": "Informática",
+    "preco": 7366.01,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 61,
+    "avaliacao": 3.7,
+    "tags": [
+      "mais vendido",
+      "promoção"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Produto 53",
+    "categoria": "Acessórios",
+    "preco": 5546.05,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 361,
+    "avaliacao": 3.6,
+    "tags": [
+      "novo",
+      "promoção"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Produto 54",
+    "categoria": "Eletrônicos",
+    "preco": 7664.05,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 44,
+    "avaliacao": 3.1,
+    "tags": [
+      "premium",
+      "promoção"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Produto 55",
+    "categoria": "Informática",
+    "preco": 177.0,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 463,
+    "avaliacao": 4.4,
+    "tags": [
+      "mais vendido",
+      "promoção"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Produto 56",
+    "categoria": "Informática",
+    "preco": 8319.3,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 465,
+    "avaliacao": 3.5,
+    "tags": [
+      "promoção",
+      "novo"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Produto 57",
+    "categoria": "Eletrônicos",
+    "preco": 2152.46,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 363,
+    "avaliacao": 3.1,
+    "tags": [
+      "promoção",
+      "novo"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Produto 58",
+    "categoria": "Acessórios",
+    "preco": 5907.49,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 335,
+    "avaliacao": 4.3,
+    "tags": [
+      "promoção",
+      "premium"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Produto 59",
+    "categoria": "Informática",
+    "preco": 82.88,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 3,
+    "avaliacao": 4.9,
+    "tags": [
+      "premium",
+      "promoção"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Produto 60",
+    "categoria": "Eletrônicos",
+    "preco": 2250.81,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 13,
+    "avaliacao": 4.4,
+    "tags": [
+      "novo",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 61,
+    "nome": "Produto 61",
+    "categoria": "Eletrônicos",
+    "preco": 852.9,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 309,
+    "avaliacao": 4.4,
+    "tags": [
+      "mais vendido",
+      "novo"
+    ]
+  },
+  {
+    "id": 62,
+    "nome": "Produto 62",
+    "categoria": "Eletrônicos",
+    "preco": 6707.51,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 165,
+    "avaliacao": 4.8,
+    "tags": [
+      "novo",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 63,
+    "nome": "Produto 63",
+    "categoria": "Eletrônicos",
+    "preco": 1140.44,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 299,
+    "avaliacao": 4.6,
+    "tags": [
+      "novo",
+      "promoção"
+    ]
+  },
+  {
+    "id": 64,
+    "nome": "Produto 64",
+    "categoria": "Acessórios",
+    "preco": 7676.31,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 305,
+    "avaliacao": 3.2,
+    "tags": [
+      "mais vendido",
+      "novo"
+    ]
+  },
+  {
+    "id": 65,
+    "nome": "Produto 65",
+    "categoria": "Eletrônicos",
+    "preco": 8535.37,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 55,
+    "avaliacao": 4.2,
+    "tags": [
+      "premium",
+      "novo"
+    ]
+  },
+  {
+    "id": 66,
+    "nome": "Produto 66",
+    "categoria": "Acessórios",
+    "preco": 3020.67,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 43,
+    "avaliacao": 3.2,
+    "tags": [
+      "promoção",
+      "novo"
+    ]
+  },
+  {
+    "id": 67,
+    "nome": "Produto 67",
+    "categoria": "Informática",
+    "preco": 3871.96,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 53,
+    "avaliacao": 3.6,
+    "tags": [
+      "novo",
+      "promoção"
+    ]
+  },
+  {
+    "id": 68,
+    "nome": "Produto 68",
+    "categoria": "Informática",
+    "preco": 622.01,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 405,
+    "avaliacao": 3.3,
+    "tags": [
+      "premium",
+      "novo"
+    ]
+  },
+  {
+    "id": 69,
+    "nome": "Produto 69",
+    "categoria": "Eletrônicos",
+    "preco": 8075.68,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 401,
+    "avaliacao": 4.2,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 70,
+    "nome": "Produto 70",
+    "categoria": "Eletrônicos",
+    "preco": 491.45,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 493,
+    "avaliacao": 3.6,
+    "tags": [
+      "promoção",
+      "novo"
+    ]
+  },
+  {
+    "id": 71,
+    "nome": "Produto 71",
+    "categoria": "Acessórios",
+    "preco": 1056.07,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 102,
+    "avaliacao": 4.9,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 72,
+    "nome": "Produto 72",
+    "categoria": "Eletrônicos",
+    "preco": 6434.4,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 220,
+    "avaliacao": 4.1,
+    "tags": [
+      "mais vendido",
+      "promoção"
+    ]
+  },
+  {
+    "id": 73,
+    "nome": "Produto 73",
+    "categoria": "Informática",
+    "preco": 4900.76,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 466,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendido",
+      "promoção"
+    ]
+  },
+  {
+    "id": 74,
+    "nome": "Produto 74",
+    "categoria": "Eletrônicos",
+    "preco": 3571.82,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 480,
+    "avaliacao": 4.5,
+    "tags": [
+      "premium",
+      "novo"
+    ]
+  },
+  {
+    "id": 75,
+    "nome": "Produto 75",
+    "categoria": "Acessórios",
+    "preco": 7628.92,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 117,
+    "avaliacao": 5.0,
+    "tags": [
+      "mais vendido",
+      "promoção"
+    ]
+  },
+  {
+    "id": 76,
+    "nome": "Produto 76",
+    "categoria": "Eletrônicos",
+    "preco": 6638.57,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 418,
+    "avaliacao": 3.7,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 77,
+    "nome": "Produto 77",
+    "categoria": "Eletrônicos",
+    "preco": 8585.33,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 431,
+    "avaliacao": 4.4,
+    "tags": [
+      "promoção",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 78,
+    "nome": "Produto 78",
+    "categoria": "Eletrônicos",
+    "preco": 7268.78,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 338,
+    "avaliacao": 4.6,
+    "tags": [
+      "promoção",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 79,
+    "nome": "Produto 79",
+    "categoria": "Eletrônicos",
+    "preco": 6327.03,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 129,
+    "avaliacao": 3.8,
+    "tags": [
+      "promoção",
+      "novo"
+    ]
+  },
+  {
+    "id": 80,
+    "nome": "Produto 80",
+    "categoria": "Informática",
+    "preco": 1358.53,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 345,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendido",
+      "premium"
+    ]
+  },
+  {
+    "id": 81,
+    "nome": "Produto 81",
+    "categoria": "Informática",
+    "preco": 8788.95,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 404,
+    "avaliacao": 4.7,
+    "tags": [
+      "promoção",
+      "premium"
+    ]
+  },
+  {
+    "id": 82,
+    "nome": "Produto 82",
+    "categoria": "Acessórios",
+    "preco": 7298.29,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 73,
+    "avaliacao": 4.2,
+    "tags": [
+      "novo",
+      "promoção"
+    ]
+  },
+  {
+    "id": 83,
+    "nome": "Produto 83",
+    "categoria": "Informática",
+    "preco": 227.28,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 70,
+    "avaliacao": 3.4,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 84,
+    "nome": "Produto 84",
+    "categoria": "Informática",
+    "preco": 256.91,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 275,
+    "avaliacao": 5.0,
+    "tags": [
+      "mais vendido",
+      "novo"
+    ]
+  },
+  {
+    "id": 85,
+    "nome": "Produto 85",
+    "categoria": "Acessórios",
+    "preco": 1763.28,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 429,
+    "avaliacao": 3.4,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 86,
+    "nome": "Produto 86",
+    "categoria": "Eletrônicos",
+    "preco": 1606.88,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 59,
+    "avaliacao": 3.4,
+    "tags": [
+      "mais vendido",
+      "promoção"
+    ]
+  },
+  {
+    "id": 87,
+    "nome": "Produto 87",
+    "categoria": "Acessórios",
+    "preco": 8750.33,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 101,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendido",
+      "premium"
+    ]
+  },
+  {
+    "id": 88,
+    "nome": "Produto 88",
+    "categoria": "Informática",
+    "preco": 3414.66,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 56,
+    "avaliacao": 4.4,
+    "tags": [
+      "novo",
+      "promoção"
+    ]
+  },
+  {
+    "id": 89,
+    "nome": "Produto 89",
+    "categoria": "Acessórios",
+    "preco": 893.99,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 253,
+    "avaliacao": 4.0,
+    "tags": [
+      "mais vendido",
+      "premium"
+    ]
+  },
+  {
+    "id": 90,
+    "nome": "Produto 90",
+    "categoria": "Acessórios",
+    "preco": 2529.73,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 265,
+    "avaliacao": 4.0,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 91,
+    "nome": "Produto 91",
+    "categoria": "Eletrônicos",
+    "preco": 5750.67,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 208,
+    "avaliacao": 3.2,
+    "tags": [
+      "novo",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 92,
+    "nome": "Produto 92",
+    "categoria": "Acessórios",
+    "preco": 8989.79,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 499,
+    "avaliacao": 3.7,
+    "tags": [
+      "mais vendido",
+      "novo"
+    ]
+  },
+  {
+    "id": 93,
+    "nome": "Produto 93",
+    "categoria": "Acessórios",
+    "preco": 3823.42,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 175,
+    "avaliacao": 3.4,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 94,
+    "nome": "Produto 94",
+    "categoria": "Eletrônicos",
+    "preco": 148.77,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 9,
+    "avaliacao": 3.6,
+    "tags": [
+      "novo",
+      "promoção"
+    ]
+  },
+  {
+    "id": 95,
+    "nome": "Produto 95",
+    "categoria": "Acessórios",
+    "preco": 7993.06,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 206,
+    "avaliacao": 3.2,
+    "tags": [
+      "promoção",
+      "novo"
+    ]
+  },
+  {
+    "id": 96,
+    "nome": "Produto 96",
+    "categoria": "Acessórios",
+    "preco": 115.02,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 482,
+    "avaliacao": 4.9,
+    "tags": [
+      "promoção",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 97,
+    "nome": "Produto 97",
+    "categoria": "Acessórios",
+    "preco": 54.91,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 94,
+    "avaliacao": 4.2,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 98,
+    "nome": "Produto 98",
+    "categoria": "Eletrônicos",
+    "preco": 432.58,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 139,
+    "avaliacao": 4.6,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 99,
+    "nome": "Produto 99",
+    "categoria": "Informática",
+    "preco": 8818.99,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 440,
+    "avaliacao": 4.1,
+    "tags": [
+      "mais vendido",
+      "novo"
+    ]
+  },
+  {
+    "id": 100,
+    "nome": "Produto 100",
+    "categoria": "Eletrônicos",
+    "preco": 3367.14,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 471,
+    "avaliacao": 3.7,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 101,
+    "nome": "Produto 101",
+    "categoria": "Acessórios",
+    "preco": 6202.22,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 312,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendido",
+      "novo"
+    ]
+  },
+  {
+    "id": 102,
+    "nome": "Produto 102",
+    "categoria": "Acessórios",
+    "preco": 8068.52,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 7,
+    "avaliacao": 4.3,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 103,
+    "nome": "Produto 103",
+    "categoria": "Eletrônicos",
+    "preco": 7151.12,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 241,
+    "avaliacao": 4.0,
+    "tags": [
+      "promoção",
+      "novo"
+    ]
+  },
+  {
+    "id": 104,
+    "nome": "Produto 104",
+    "categoria": "Eletrônicos",
+    "preco": 4256.57,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 484,
+    "avaliacao": 3.9,
+    "tags": [
+      "novo",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 105,
+    "nome": "Produto 105",
+    "categoria": "Eletrônicos",
+    "preco": 1181.68,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 222,
+    "avaliacao": 3.5,
+    "tags": [
+      "mais vendido",
+      "premium"
+    ]
+  },
+  {
+    "id": 106,
+    "nome": "Produto 106",
+    "categoria": "Acessórios",
+    "preco": 7290.13,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 268,
+    "avaliacao": 3.0,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 107,
+    "nome": "Produto 107",
+    "categoria": "Eletrônicos",
+    "preco": 4078.78,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 109,
+    "avaliacao": 3.5,
+    "tags": [
+      "mais vendido",
+      "novo"
+    ]
+  },
+  {
+    "id": 108,
+    "nome": "Produto 108",
+    "categoria": "Eletrônicos",
+    "preco": 3681.31,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 284,
+    "avaliacao": 3.1,
+    "tags": [
+      "mais vendido",
+      "novo"
+    ]
+  },
+  {
+    "id": 109,
+    "nome": "Produto 109",
+    "categoria": "Acessórios",
+    "preco": 3945.2,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 494,
+    "avaliacao": 4.2,
+    "tags": [
+      "premium",
+      "novo"
+    ]
+  },
+  {
+    "id": 110,
+    "nome": "Produto 110",
+    "categoria": "Acessórios",
+    "preco": 373.59,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 97,
+    "avaliacao": 4.9,
+    "tags": [
+      "promoção",
+      "novo"
+    ]
+  },
+  {
+    "id": 111,
+    "nome": "Produto 111",
+    "categoria": "Eletrônicos",
+    "preco": 5837.86,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 260,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendido",
+      "premium"
+    ]
+  },
+  {
+    "id": 112,
+    "nome": "Produto 112",
+    "categoria": "Informática",
+    "preco": 557.28,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 183,
+    "avaliacao": 3.7,
+    "tags": [
+      "novo",
+      "promoção"
+    ]
+  },
+  {
+    "id": 113,
+    "nome": "Produto 113",
+    "categoria": "Eletrônicos",
+    "preco": 772.83,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 396,
+    "avaliacao": 3.5,
+    "tags": [
+      "promoção",
+      "premium"
+    ]
+  },
+  {
+    "id": 114,
+    "nome": "Produto 114",
+    "categoria": "Acessórios",
+    "preco": 5537.08,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 451,
+    "avaliacao": 3.0,
+    "tags": [
+      "novo",
+      "promoção"
+    ]
+  },
+  {
+    "id": 115,
+    "nome": "Produto 115",
+    "categoria": "Informática",
+    "preco": 4883.18,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 339,
+    "avaliacao": 4.3,
+    "tags": [
+      "novo",
+      "promoção"
+    ]
+  },
+  {
+    "id": 116,
+    "nome": "Produto 116",
+    "categoria": "Informática",
+    "preco": 6592.94,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 496,
+    "avaliacao": 4.6,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 117,
+    "nome": "Produto 117",
+    "categoria": "Acessórios",
+    "preco": 7541.02,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 449,
+    "avaliacao": 4.7,
+    "tags": [
+      "premium",
+      "novo"
+    ]
+  },
+  {
+    "id": 118,
+    "nome": "Produto 118",
+    "categoria": "Eletrônicos",
+    "preco": 5556.53,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 478,
+    "avaliacao": 4.1,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 119,
+    "nome": "Produto 119",
+    "categoria": "Informática",
+    "preco": 8840.81,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 382,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendido",
+      "premium"
+    ]
+  },
+  {
+    "id": 120,
+    "nome": "Produto 120",
+    "categoria": "Acessórios",
+    "preco": 501.84,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 251,
+    "avaliacao": 3.0,
+    "tags": [
+      "mais vendido",
+      "novo"
+    ]
+  },
+  {
+    "id": 121,
+    "nome": "Produto 121",
+    "categoria": "Informática",
+    "preco": 7245.08,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 279,
+    "avaliacao": 3.5,
+    "tags": [
+      "promoção",
+      "novo"
+    ]
+  },
+  {
+    "id": 122,
+    "nome": "Produto 122",
+    "categoria": "Acessórios",
+    "preco": 3028.82,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 109,
+    "avaliacao": 3.8,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 123,
+    "nome": "Produto 123",
+    "categoria": "Acessórios",
+    "preco": 2940.45,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 113,
+    "avaliacao": 4.3,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 124,
+    "nome": "Produto 124",
+    "categoria": "Acessórios",
+    "preco": 6377.47,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 408,
+    "avaliacao": 3.9,
+    "tags": [
+      "promoção",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 125,
+    "nome": "Produto 125",
+    "categoria": "Acessórios",
+    "preco": 4584.16,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 416,
+    "avaliacao": 4.9,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 126,
+    "nome": "Produto 126",
+    "categoria": "Acessórios",
+    "preco": 2288.92,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 47,
+    "avaliacao": 4.6,
+    "tags": [
+      "novo",
+      "promoção"
+    ]
+  },
+  {
+    "id": 127,
+    "nome": "Produto 127",
+    "categoria": "Informática",
+    "preco": 7600.55,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 338,
+    "avaliacao": 3.5,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 128,
+    "nome": "Produto 128",
+    "categoria": "Acessórios",
+    "preco": 8466.44,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 93,
+    "avaliacao": 4.5,
+    "tags": [
+      "novo",
+      "promoção"
+    ]
+  },
+  {
+    "id": 129,
+    "nome": "Produto 129",
+    "categoria": "Informática",
+    "preco": 1756.21,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 400,
+    "avaliacao": 3.8,
+    "tags": [
+      "novo",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 130,
+    "nome": "Produto 130",
+    "categoria": "Eletrônicos",
+    "preco": 2102.74,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 231,
+    "avaliacao": 4.2,
+    "tags": [
+      "mais vendido",
+      "promoção"
+    ]
+  },
+  {
+    "id": 131,
+    "nome": "Produto 131",
+    "categoria": "Eletrônicos",
+    "preco": 8790.61,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 229,
+    "avaliacao": 4.4,
+    "tags": [
+      "mais vendido",
+      "premium"
+    ]
+  },
+  {
+    "id": 132,
+    "nome": "Produto 132",
+    "categoria": "Acessórios",
+    "preco": 2224.79,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 55,
+    "avaliacao": 3.7,
+    "tags": [
+      "mais vendido",
+      "premium"
+    ]
+  },
+  {
+    "id": 133,
+    "nome": "Produto 133",
+    "categoria": "Informática",
+    "preco": 7999.62,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 18,
+    "avaliacao": 4.1,
+    "tags": [
+      "novo",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 134,
+    "nome": "Produto 134",
+    "categoria": "Eletrônicos",
+    "preco": 2028.35,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 209,
+    "avaliacao": 4.7,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 135,
+    "nome": "Produto 135",
+    "categoria": "Acessórios",
+    "preco": 6130.86,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 227,
+    "avaliacao": 4.5,
+    "tags": [
+      "promoção",
+      "novo"
+    ]
+  },
+  {
+    "id": 136,
+    "nome": "Produto 136",
+    "categoria": "Informática",
+    "preco": 3892.6,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 35,
+    "avaliacao": 4.2,
+    "tags": [
+      "mais vendido",
+      "novo"
+    ]
+  },
+  {
+    "id": 137,
+    "nome": "Produto 137",
+    "categoria": "Eletrônicos",
+    "preco": 2651.16,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 229,
+    "avaliacao": 3.8,
+    "tags": [
+      "promoção",
+      "premium"
+    ]
+  },
+  {
+    "id": 138,
+    "nome": "Produto 138",
+    "categoria": "Acessórios",
+    "preco": 7239.71,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 83,
+    "avaliacao": 4.6,
+    "tags": [
+      "promoção",
+      "novo"
+    ]
+  },
+  {
+    "id": 139,
+    "nome": "Produto 139",
+    "categoria": "Informática",
+    "preco": 7176.03,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 234,
+    "avaliacao": 3.1,
+    "tags": [
+      "promoção",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 140,
+    "nome": "Produto 140",
+    "categoria": "Eletrônicos",
+    "preco": 3065.66,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 277,
+    "avaliacao": 5.0,
+    "tags": [
+      "mais vendido",
+      "novo"
+    ]
+  },
+  {
+    "id": 141,
+    "nome": "Produto 141",
+    "categoria": "Acessórios",
+    "preco": 4619.78,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 144,
+    "avaliacao": 4.0,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 142,
+    "nome": "Produto 142",
+    "categoria": "Eletrônicos",
+    "preco": 6392.39,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 298,
+    "avaliacao": 3.1,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 143,
+    "nome": "Produto 143",
+    "categoria": "Informática",
+    "preco": 8470.06,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 376,
+    "avaliacao": 3.1,
+    "tags": [
+      "mais vendido",
+      "novo"
+    ]
+  },
+  {
+    "id": 144,
+    "nome": "Produto 144",
+    "categoria": "Acessórios",
+    "preco": 1661.93,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 323,
+    "avaliacao": 4.9,
+    "tags": [
+      "promoção",
+      "premium"
+    ]
+  },
+  {
+    "id": 145,
+    "nome": "Produto 145",
+    "categoria": "Eletrônicos",
+    "preco": 7872.03,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 324,
+    "avaliacao": 3.7,
+    "tags": [
+      "premium",
+      "promoção"
+    ]
+  },
+  {
+    "id": 146,
+    "nome": "Produto 146",
+    "categoria": "Eletrônicos",
+    "preco": 8836.69,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 259,
+    "avaliacao": 3.3,
+    "tags": [
+      "mais vendido",
+      "premium"
+    ]
+  },
+  {
+    "id": 147,
+    "nome": "Produto 147",
+    "categoria": "Informática",
+    "preco": 422.08,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 299,
+    "avaliacao": 4.4,
+    "tags": [
+      "promoção",
+      "premium"
+    ]
+  },
+  {
+    "id": 148,
+    "nome": "Produto 148",
+    "categoria": "Acessórios",
+    "preco": 7455.38,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 404,
+    "avaliacao": 4.2,
+    "tags": [
+      "premium",
+      "promoção"
+    ]
+  },
+  {
+    "id": 149,
+    "nome": "Produto 149",
+    "categoria": "Acessórios",
+    "preco": 4235.89,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 405,
+    "avaliacao": 3.3,
+    "tags": [
+      "novo",
+      "promoção"
+    ]
+  },
+  {
+    "id": 150,
+    "nome": "Produto 150",
+    "categoria": "Acessórios",
+    "preco": 1786.62,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 471,
+    "avaliacao": 4.5,
+    "tags": [
+      "promoção",
+      "novo"
+    ]
+  },
+  {
+    "id": 151,
+    "nome": "Produto 151",
+    "categoria": "Informática",
+    "preco": 8756.74,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 386,
+    "avaliacao": 4.0,
+    "tags": [
+      "promoção",
+      "premium"
+    ]
+  },
+  {
+    "id": 152,
+    "nome": "Produto 152",
+    "categoria": "Informática",
+    "preco": 1984.22,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 114,
+    "avaliacao": 4.5,
+    "tags": [
+      "mais vendido",
+      "promoção"
+    ]
+  },
+  {
+    "id": 153,
+    "nome": "Produto 153",
+    "categoria": "Acessórios",
+    "preco": 7286.94,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 64,
+    "avaliacao": 3.6,
+    "tags": [
+      "novo",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 154,
+    "nome": "Produto 154",
+    "categoria": "Acessórios",
+    "preco": 5552.52,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 387,
+    "avaliacao": 3.3,
+    "tags": [
+      "novo",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 155,
+    "nome": "Produto 155",
+    "categoria": "Eletrônicos",
+    "preco": 662.31,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 162,
+    "avaliacao": 3.2,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 156,
+    "nome": "Produto 156",
+    "categoria": "Informática",
+    "preco": 1418.3,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 471,
+    "avaliacao": 4.7,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 157,
+    "nome": "Produto 157",
+    "categoria": "Informática",
+    "preco": 7165.37,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 397,
+    "avaliacao": 4.5,
+    "tags": [
+      "premium",
+      "promoção"
+    ]
+  },
+  {
+    "id": 158,
+    "nome": "Produto 158",
+    "categoria": "Acessórios",
+    "preco": 3028.54,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 380,
+    "avaliacao": 4.8,
+    "tags": [
+      "novo",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 159,
+    "nome": "Produto 159",
+    "categoria": "Eletrônicos",
+    "preco": 6538.84,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 225,
+    "avaliacao": 3.3,
+    "tags": [
+      "premium",
+      "novo"
+    ]
+  },
+  {
+    "id": 160,
+    "nome": "Produto 160",
+    "categoria": "Eletrônicos",
+    "preco": 5790.43,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 437,
+    "avaliacao": 4.0,
+    "tags": [
+      "mais vendido",
+      "promoção"
+    ]
+  },
+  {
+    "id": 161,
+    "nome": "Produto 161",
+    "categoria": "Acessórios",
+    "preco": 3800.31,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 259,
+    "avaliacao": 3.9,
+    "tags": [
+      "mais vendido",
+      "premium"
+    ]
+  },
+  {
+    "id": 162,
+    "nome": "Produto 162",
+    "categoria": "Eletrônicos",
+    "preco": 1854.78,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 439,
+    "avaliacao": 3.7,
+    "tags": [
+      "mais vendido",
+      "promoção"
+    ]
+  },
+  {
+    "id": 163,
+    "nome": "Produto 163",
+    "categoria": "Informática",
+    "preco": 2756.5,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 379,
+    "avaliacao": 4.4,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 164,
+    "nome": "Produto 164",
+    "categoria": "Acessórios",
+    "preco": 7036.04,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 499,
+    "avaliacao": 4.6,
+    "tags": [
+      "premium",
+      "novo"
+    ]
+  },
+  {
+    "id": 165,
+    "nome": "Produto 165",
+    "categoria": "Eletrônicos",
+    "preco": 4924.52,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 318,
+    "avaliacao": 3.3,
+    "tags": [
+      "promoção",
+      "premium"
+    ]
+  },
+  {
+    "id": 166,
+    "nome": "Produto 166",
+    "categoria": "Informática",
+    "preco": 8930.21,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 353,
+    "avaliacao": 4.5,
+    "tags": [
+      "premium",
+      "promoção"
+    ]
+  },
+  {
+    "id": 167,
+    "nome": "Produto 167",
+    "categoria": "Eletrônicos",
+    "preco": 6650.92,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 269,
+    "avaliacao": 4.1,
+    "tags": [
+      "premium",
+      "promoção"
+    ]
+  },
+  {
+    "id": 168,
+    "nome": "Produto 168",
+    "categoria": "Acessórios",
+    "preco": 7930.08,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 276,
+    "avaliacao": 4.6,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 169,
+    "nome": "Produto 169",
+    "categoria": "Eletrônicos",
+    "preco": 4511.31,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 72,
+    "avaliacao": 4.4,
+    "tags": [
+      "novo",
+      "promoção"
+    ]
+  },
+  {
+    "id": 170,
+    "nome": "Produto 170",
+    "categoria": "Eletrônicos",
+    "preco": 950.73,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 74,
+    "avaliacao": 3.0,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 171,
+    "nome": "Produto 171",
+    "categoria": "Informática",
+    "preco": 4253.71,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 423,
+    "avaliacao": 4.2,
+    "tags": [
+      "promoção",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 172,
+    "nome": "Produto 172",
+    "categoria": "Acessórios",
+    "preco": 5389.25,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 220,
+    "avaliacao": 3.9,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 173,
+    "nome": "Produto 173",
+    "categoria": "Informática",
+    "preco": 244.49,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 41,
+    "avaliacao": 4.8,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 174,
+    "nome": "Produto 174",
+    "categoria": "Informática",
+    "preco": 507.32,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 372,
+    "avaliacao": 4.1,
+    "tags": [
+      "novo",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 175,
+    "nome": "Produto 175",
+    "categoria": "Acessórios",
+    "preco": 2600.85,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 46,
+    "avaliacao": 3.1,
+    "tags": [
+      "premium",
+      "novo"
+    ]
+  },
+  {
+    "id": 176,
+    "nome": "Produto 176",
+    "categoria": "Eletrônicos",
+    "preco": 4784.46,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 341,
+    "avaliacao": 3.2,
+    "tags": [
+      "novo",
+      "promoção"
+    ]
+  },
+  {
+    "id": 177,
+    "nome": "Produto 177",
+    "categoria": "Acessórios",
+    "preco": 4424.16,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 393,
+    "avaliacao": 3.1,
+    "tags": [
+      "premium",
+      "promoção"
+    ]
+  },
+  {
+    "id": 178,
+    "nome": "Produto 178",
+    "categoria": "Informática",
+    "preco": 1759.93,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 7,
+    "avaliacao": 3.0,
+    "tags": [
+      "mais vendido",
+      "promoção"
+    ]
+  },
+  {
+    "id": 179,
+    "nome": "Produto 179",
+    "categoria": "Eletrônicos",
+    "preco": 5779.84,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 72,
+    "avaliacao": 3.0,
+    "tags": [
+      "promoção",
+      "novo"
+    ]
+  },
+  {
+    "id": 180,
+    "nome": "Produto 180",
+    "categoria": "Informática",
+    "preco": 6268.6,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 6,
+    "avaliacao": 3.7,
+    "tags": [
+      "promoção",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 181,
+    "nome": "Produto 181",
+    "categoria": "Eletrônicos",
+    "preco": 7441.8,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 381,
+    "avaliacao": 4.4,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 182,
+    "nome": "Produto 182",
+    "categoria": "Informática",
+    "preco": 1587.16,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 366,
+    "avaliacao": 3.6,
+    "tags": [
+      "premium",
+      "promoção"
+    ]
+  },
+  {
+    "id": 183,
+    "nome": "Produto 183",
+    "categoria": "Informática",
+    "preco": 5990.04,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 8,
+    "avaliacao": 3.6,
+    "tags": [
+      "promoção",
+      "premium"
+    ]
+  },
+  {
+    "id": 184,
+    "nome": "Produto 184",
+    "categoria": "Acessórios",
+    "preco": 2795.34,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 71,
+    "avaliacao": 3.4,
+    "tags": [
+      "mais vendido",
+      "premium"
+    ]
+  },
+  {
+    "id": 185,
+    "nome": "Produto 185",
+    "categoria": "Acessórios",
+    "preco": 1551.7,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 60,
+    "avaliacao": 3.5,
+    "tags": [
+      "mais vendido",
+      "promoção"
+    ]
+  },
+  {
+    "id": 186,
+    "nome": "Produto 186",
+    "categoria": "Acessórios",
+    "preco": 2603.59,
+    "marca": "HP",
+    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
+    "estoque": 285,
+    "avaliacao": 4.7,
+    "tags": [
+      "premium",
+      "novo"
+    ]
+  },
+  {
+    "id": 187,
+    "nome": "Produto 187",
+    "categoria": "Eletrônicos",
+    "preco": 1470.84,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 430,
+    "avaliacao": 3.6,
+    "tags": [
+      "premium",
+      "novo"
+    ]
+  },
+  {
+    "id": 188,
+    "nome": "Produto 188",
+    "categoria": "Acessórios",
+    "preco": 1007.34,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 186,
+    "avaliacao": 3.0,
+    "tags": [
+      "mais vendido",
+      "promoção"
+    ]
+  },
+  {
+    "id": 189,
+    "nome": "Produto 189",
+    "categoria": "Eletrônicos",
+    "preco": 163.76,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 266,
+    "avaliacao": 4.9,
+    "tags": [
+      "novo",
+      "premium"
+    ]
+  },
+  {
+    "id": 190,
+    "nome": "Produto 190",
+    "categoria": "Informática",
+    "preco": 3284.83,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 274,
+    "avaliacao": 3.6,
+    "tags": [
+      "mais vendido",
+      "promoção"
+    ]
+  },
+  {
+    "id": 191,
+    "nome": "Produto 191",
+    "categoria": "Eletrônicos",
+    "preco": 6771.6,
+    "marca": "Sony",
+    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
+    "estoque": 455,
+    "avaliacao": 3.8,
+    "tags": [
+      "novo",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 192,
+    "nome": "Produto 192",
+    "categoria": "Informática",
+    "preco": 6949.52,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 182,
+    "avaliacao": 3.9,
+    "tags": [
+      "promoção",
+      "novo"
+    ]
+  },
+  {
+    "id": 193,
+    "nome": "Produto 193",
+    "categoria": "Informática",
+    "preco": 4532.42,
+    "marca": "Lenovo",
+    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
+    "estoque": 459,
+    "avaliacao": 3.5,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 194,
+    "nome": "Produto 194",
+    "categoria": "Informática",
+    "preco": 6198.71,
+    "marca": "Samsung",
+    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
+    "estoque": 48,
+    "avaliacao": 4.0,
+    "tags": [
+      "premium",
+      "promoção"
+    ]
+  },
+  {
+    "id": 195,
+    "nome": "Produto 195",
+    "categoria": "Acessórios",
+    "preco": 7481.72,
+    "marca": "Apple",
+    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
+    "estoque": 338,
+    "avaliacao": 3.3,
+    "tags": [
+      "mais vendido",
+      "promoção"
+    ]
+  },
+  {
+    "id": 196,
+    "nome": "Produto 196",
+    "categoria": "Informática",
+    "preco": 3103.03,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 352,
+    "avaliacao": 4.3,
+    "tags": [
+      "novo",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 197,
+    "nome": "Produto 197",
+    "categoria": "Informática",
+    "preco": 2771.14,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 180,
+    "avaliacao": 3.3,
+    "tags": [
+      "promoção",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 198,
+    "nome": "Produto 198",
+    "categoria": "Eletrônicos",
+    "preco": 2096.55,
+    "marca": "Asus",
+    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
+    "estoque": 394,
+    "avaliacao": 4.7,
+    "tags": [
+      "premium",
+      "mais vendido"
+    ]
+  },
+  {
+    "id": 199,
+    "nome": "Produto 199",
+    "categoria": "Acessórios",
+    "preco": 8055.64,
+    "marca": "LG",
+    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "estoque": 2,
+    "avaliacao": 4.1,
+    "tags": [
+      "promoção",
+      "novo"
+    ]
+  },
+  {
+    "id": 200,
+    "nome": "Produto 200",
+    "categoria": "Eletrônicos",
+    "preco": 1161.18,
+    "marca": "Dell",
+    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
+    "estoque": 133,
+    "avaliacao": 4.8,
+    "tags": [
+      "promoção",
+      "mais vendido"
+    ]
+  }
+]
