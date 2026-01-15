@@ -4,11 +4,9 @@ import time
 import os
 
 def get_cep_data(cep, timeout=5):
-    # limpa o CEP (remove hífen e espaços)
-    cep = str(cep).replace("-", "").strip()
-
+    
     if len(cep) != 8 or not cep.isdigit():
-        return None
+       return None
 
     url = f"https://viacep.com.br/ws/{cep}/json/"
 
@@ -46,21 +44,18 @@ users_df = pd.read_csv("01.bronze-raw/users.csv")
 cep_list = (users_df["cep"].to_list())
 
 cep_results = []
-ignored = 0
 
 # Consulta cada CEP
 for cep in cep_list:
     cep_info = get_cep_data(cep)
-
-    if cep_info:
+    if cep_info:  # só adiciona se não for None
         cep_results.append(cep_info)
     else:
-        ignored += 1
+        print(f"⚠️ CEP ignorado: {cep}")
         
-    # Evita sobrecarregar a API
     time.sleep(0.2)
 
-# Converte para DataFrame (camada Bronze)
+# Converte para DataFrame
 bronze_cep_df = pd.DataFrame(cep_results)
 
 # Salva dados crus (sem transformação semântica)
@@ -71,4 +66,3 @@ bronze_cep_df.to_csv(
 
 print("🥉 Bronze gerado com sucesso")
 print(f"📊 Registros válidos: {len(bronze_cep_df)}")
-print(f"⚠️ CEPs ignorados: {ignored}")
