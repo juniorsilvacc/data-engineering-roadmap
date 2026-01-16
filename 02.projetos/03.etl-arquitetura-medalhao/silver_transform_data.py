@@ -5,9 +5,7 @@ BRONZE_DIR = "01.bronze-raw"
 SILVER_DIR = "02.silver-validated"
 os.makedirs(SILVER_DIR, exist_ok=True)
 
-# ------------------------------
 # Função de leitura genérica
-# ------------------------------
 def read_file(path: str) -> pd.DataFrame:
     ext = os.path.splitext(path)[1].lower()
 
@@ -20,9 +18,9 @@ def read_file(path: str) -> pd.DataFrame:
     else:
         raise ValueError(f"Formato não suportado: {ext}")
 
-# ------------------------------
-# Validações Silver
-# ------------------------------
+# ==============================
+# PIPELINE SILVER – TRANSFORMAÇÃO
+# ==============================
 def silver_validate(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
     
@@ -49,9 +47,7 @@ def silver_validate(df: pd.DataFrame) -> pd.DataFrame:
 
     return df
 
-# ------------------------------
-# Execução Silver
-# ------------------------------
+# Execução 
 for file in os.listdir(BRONZE_DIR):
     bronze_path = os.path.join(BRONZE_DIR, file)
 

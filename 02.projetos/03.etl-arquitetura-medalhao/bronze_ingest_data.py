@@ -3,6 +3,9 @@ import pandas as pd
 import time
 import os
 
+# ==============================
+# PIPELINE BRONZE – EXTRAÇÃO
+# ==============================
 def get_cep_data(cep, timeout=5):
     
     if len(cep) != 8 or not cep.isdigit():
@@ -29,10 +32,6 @@ def get_cep_data(cep, timeout=5):
         # Erros de rede, timeout, DNS, conexão resetada, etc
         print(f"❌ Erro ao consultar o CEP {cep}: {error}")
         return None
-
-# ==============================
-# PIPELINE BRONZE – EXTRAÇÃO
-# ==============================
 
 # Garante que o diretório Bronze existe
 os.makedirs("01.bronze-raw", exist_ok=True)
