@@ -3,9 +3,14 @@ import os
 
 BRONZE_DIR = "01.bronze-raw"
 SILVER_DIR = "02.silver-validated"
+SUPPORTED_EXT = {".csv", ".json", ".parquet"}
 os.makedirs(SILVER_DIR, exist_ok=True)
 
-# Função de leitura genérica
+# ==============================
+# PIPELINE SILVER – TRANSFORMAÇÃO
+# ==============================
+
+# FUNÇÃO DE LEITURA GENÉRICA
 def read_file(path: str) -> pd.DataFrame:
     ext = os.path.splitext(path)[1].lower()
 
@@ -18,13 +23,11 @@ def read_file(path: str) -> pd.DataFrame:
     else:
         raise ValueError(f"Formato não suportado: {ext}")
 
-# ==============================
-# PIPELINE SILVER – TRANSFORMAÇÃO
-# ==============================
+# TRANSFORMAÇÃO
 def silver_validate(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
     
-    # Normaliza colunas (nomes)
+    # Normaliza nomes de colunas
     df.columns = (
         df.columns
         .str.strip()
@@ -32,47 +35,58 @@ def silver_validate(df: pd.DataFrame) -> pd.DataFrame:
         .str.replace(" ", "_")
     )
     
-    # Converte colunas não escalares (listas, dicts) em string
+    # Converte listas e dicionários em string
     for col in df.columns:
-        df[col] = df[col].apply(lambda x: str(x) if isinstance(x, (list, dict)) else x)
+        df[col] = df[col].apply(
+            lambda x: str(x) if isinstance(x, (list, dict)) else x
+        )
 
-    # Remove linhas completamente vazias
-    df = df.dropna(how="all")
-
-    # Substitui strings vazias por None
-    df = df.replace({"": None})
-
-    # Remove duplicados completos
-    df = df.drop_duplicates()
+    # Limpeza básica
+    df = df.dropna(how="all")   # Remove linhas completamente vazias
+    df = df.replace({"": None}) # Substitui strings vazias por None
+    df = df.drop_duplicates()   # Remove duplicados completos
 
     return df
 
-# Execução 
-for file in os.listdir(BRONZE_DIR):
-    bronze_path = os.path.join(BRONZE_DIR, file)
+# EXECUÇÃO
+def run_silver():
+    print("🥈 Iniciando Silver...")
 
-    # Ignora diretórios e arquivos não suportados
-    if not os.path.isfile(bronze_path):
-        continue
+    for file in os.listdir(BRONZE_DIR):
+        bronze_path = os.path.join(BRONZE_DIR, file)
 
-    ext = os.path.splitext(file)[1].lower()
-    if ext not in {".csv", ".json", ".parquet"}:
-        print(f"⚠️ Ignorado (formato não suportado): {file}")
-        continue
+        # Ignora diretórios e arquivos não suportados
+        if not os.path.isfile(bronze_path):
+            continue
 
-    print(f"🔄 Processando: {file}")
-    
-    try:
-        # Leitura e validação universal
-        df = read_file(bronze_path)
-        df_valid = silver_validate(df)
+        ext = os.path.splitext(file)[1].lower()
+        if ext not in SUPPORTED_EXT:
+            continue
 
-        # Salva Silver com mesmo nome, extensão parquet
-        silver_path = os.path.join(SILVER_DIR, os.path.splitext(file)[0] + ".parquet")
-        df_valid.to_parquet(silver_path, index=False)
+        print(f"🔄 Processando: {file}")
+        
+        try:
+            # Leitura e validação universal
+            df = read_file(bronze_path)
+            
+            # Ignora DataFrame vazio
+            if df.empty:
+                print(f"⚠️ Arquivo vazio ignorado: {file}")
+                continue
+            
+            df_valid = silver_validate(df)
 
-        print(f"✅ Silver gerada: {silver_path} ({len(df_valid)} registros)")
-    except Exception as e:
-        print(f"❌ Erro ao processar {file}: {e}")
+            # Salva Silver com mesmo nome, extensão parquet
+            silver_path = os.path.join(
+                SILVER_DIR, 
+                os.path.splitext(file)[0].replace("_raw", "") + ".parquet"
+            )
+            
+            df_valid.to_parquet(silver_path, index=False)
+            
+            print(f"✅ Silver gerada: {silver_path} ({len(df_valid)} registros)")
+            
+        except Exception as e:
+            print(f"❌ Erro ao processar {file}: {e}")
 
-print("Pipeline Silver finalizado")
+    print("🥈 Pipeline finalizado")
