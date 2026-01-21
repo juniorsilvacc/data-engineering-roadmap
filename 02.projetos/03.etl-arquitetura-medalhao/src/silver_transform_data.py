@@ -1,8 +1,8 @@
 import pandas as pd
 import os
 
-BRONZE_DIR = "01.bronze-raw"
-SILVER_DIR = "02.silver-validated"
+BRONZE_DIR = "../data/bronze-raw"
+SILVER_DIR = "../data/silver-validated"
 SUPPORTED_EXT = {".csv", ".json", ".parquet"}
 os.makedirs(SILVER_DIR, exist_ok=True)
 

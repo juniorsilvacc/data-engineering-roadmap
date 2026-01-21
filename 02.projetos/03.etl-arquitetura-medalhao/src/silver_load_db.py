@@ -2,7 +2,7 @@ from db import DB
 import pandas as pd
 import os
 
-SILVER_DIR = "02.silver-validated"
+SILVER_DIR = "../data/silver-validated"
 
 # Cria a conexão com o banco de dados PostgreSQL
 db = DB(
