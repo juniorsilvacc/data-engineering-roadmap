@@ -5,6 +5,7 @@ SELECT
     u.email,
     u.telefone,
     u.cep,
+    u.data_nascimento,
     c.localidade,
     c.estado,
     c.uf,

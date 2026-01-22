@@ -4,13 +4,12 @@ import os
 BRONZE_DIR = "../data/bronze-raw"
 SILVER_DIR = "../data/silver-validated"
 SUPPORTED_EXT = {".csv", ".json", ".parquet"}
+
 os.makedirs(SILVER_DIR, exist_ok=True)
 
 # ==============================
-# PIPELINE SILVER – TRANSFORMAÇÃO
+# LEITURA GENÉRICA
 # ==============================
-
-# FUNÇÃO DE LEITURA GENÉRICA
 def read_file(path: str) -> pd.DataFrame:
     ext = os.path.splitext(path)[1].lower()
 
@@ -23,7 +22,9 @@ def read_file(path: str) -> pd.DataFrame:
     else:
         raise ValueError(f"Formato não suportado: {ext}")
 
-# TRANSFORMAÇÃO
+# ==============================
+# VALIDAÇÃO GENÉRICA (TODOS OS DF)
+# ==============================
 def silver_validate(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
     
@@ -35,20 +36,59 @@ def silver_validate(df: pd.DataFrame) -> pd.DataFrame:
         .str.replace(" ", "_")
     )
     
-    # Converte listas e dicionários em string
-    for col in df.columns:
-        df[col] = df[col].apply(
-            lambda x: str(x) if isinstance(x, (list, dict)) else x
+    # Converte tipos
+    if "preco" in df.columns:
+        df["preco"] = pd.to_numeric(df["preco"], errors="coerce")
+
+    if "quantidade" in df.columns:
+        df["quantidade"] = pd.to_numeric(df["quantidade"], errors="coerce").astype("Int64")
+    
+    if "data_nascimento" in df.columns:
+        df["data_nascimento"] = pd.to_datetime(
+            df["data_nascimento"], errors="coerce"
         )
 
     # Limpeza básica
     df = df.dropna(how="all")   # Remove linhas completamente vazias
     df = df.replace({"": None}) # Substitui strings vazias por None
-    df = df.drop_duplicates()   # Remove duplicados completos
+    # df = df.drop_duplicates()   # Remove duplicados completos
 
     return df
 
-# EXECUÇÃO
+# ==============================
+# NORMALIZAÇÃO ESPECÍFICA – PRODUCTS
+# ==============================
+def normalize_products(df: pd.DataFrame):
+    """
+    Se existir coluna tags (lista), cria tabela product_tags normalizada
+    """
+    if "tags" not in df.columns:
+        return df, None
+
+    df = df.copy()
+
+    # Garante que tags é lista
+    df["tags"] = df["tags"].apply(
+        lambda x: x if isinstance(x, list) else []
+    )
+
+    # Cria tabela normalizada
+    product_tags = (
+        df[["id", "tags"]]
+        .explode("tags")
+        .rename(columns={"id": "product_id", "tags": "tag"})
+        .dropna()
+        .drop_duplicates()
+    )
+
+    # Remove tags da tabela principal
+    df = df.drop(columns=["tags"])
+
+    return df, product_tags
+
+# ==============================
+# EXECUÇÃO DO SILVER
+# ==============================
 def run_silver():
     print("🥈 Iniciando Silver...")
 
@@ -74,18 +114,28 @@ def run_silver():
                 print(f"⚠️ Arquivo vazio ignorado: {file}")
                 continue
             
+            # Validação genérica
             df_valid = silver_validate(df)
 
-            # Salva Silver com mesmo nome, extensão parquet
-            silver_path = os.path.join(
-                SILVER_DIR, 
-                os.path.splitext(file)[0].replace("_raw", "") + ".parquet"
-            )
+            base_name = os.path.splitext(file)[0].replace("_raw", "")
             
-            df_valid.to_parquet(silver_path, index=False)
-            
-            print(f"✅ Silver gerada: {silver_path} ({len(df_valid)} registros)")
-            
+            # Normalização específica (products)
+            if base_name == "products":
+                products_df, product_tags_df = normalize_products(df_valid)
+
+                products_df.to_parquet(
+                    os.path.join(SILVER_DIR, "products.parquet"),
+                    index=False
+                )
+
+                product_tags_df.to_parquet(
+                    os.path.join(SILVER_DIR, "product_tags.parquet"),
+                    index=False
+                )
+            else:
+                silver_path = os.path.join(SILVER_DIR, base_name + ".parquet")
+                df_valid.to_parquet(silver_path, index=False)
+
         except Exception as e:
             print(f"❌ Erro ao processar {file}: {e}")
 

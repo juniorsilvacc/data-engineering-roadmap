@@ -4,13 +4,12 @@ import time
 import os
 
 BRONZE_DIR = "../data/bronze-raw"
+
 os.makedirs(BRONZE_DIR, exist_ok=True)
 
 # ==============================
-# PIPELINE BRONZE
-# ==============================
-
 # NORMALIZAÇÃO DO CEP
+# ==============================
 def normalize_cep(cep):
     if pd.isna(cep):
         return None
@@ -25,7 +24,9 @@ def normalize_cep(cep):
 
     return cep
 
+# ==============================
 # EXTRAÇÃO DE DADOS
+# ==============================
 def get_cep_data(cep, timeout=5):
     """
     Consulta dados de CEP na API ViaCEP.
@@ -52,7 +53,9 @@ def get_cep_data(cep, timeout=5):
         print(f"❌ Erro CEP {cep}: {error}")
         return None
 
-# EXECUÇÃO
+# ==============================
+# EXECUÇÃO DO BRONZE
+# ==============================
 def run_bronze():
     print("🥉 Iniciando Bronze...")
     

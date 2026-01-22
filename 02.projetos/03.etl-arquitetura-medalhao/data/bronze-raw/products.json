@@ -1,2802 +1,2723 @@
 [
   {
     "id": 1,
-    "nome": "Produto 1",
-    "categoria": "Informática",
-    "preco": 4504.89,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 254,
-    "avaliacao": 4.1,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 4140.96,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 339,
+    "avaliacao": 4.9,
     "tags": [
-      "novo",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 2,
-    "nome": "Produto 2",
-    "categoria": "Acessórios",
-    "preco": 6172.74,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 393,
-    "avaliacao": 4.6,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 5214.0,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 311,
+    "avaliacao": 3.9,
     "tags": [
-      "premium",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 3,
-    "nome": "Produto 3",
-    "categoria": "Eletrônicos",
-    "preco": 6540.51,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 11,
-    "avaliacao": 3.0,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 604.31,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 141,
+    "avaliacao": 4.5,
     "tags": [
-      "mais vendido",
-      "novo"
-    ]
-  },
-  {
-    "id": 4,
-    "nome": "Produto 4",
-    "categoria": "Acessórios",
-    "preco": 5401.97,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 329,
-    "avaliacao": 5.0,
-    "tags": [
-      "promoção",
-      "mais vendido"
-    ]
-  },
-  {
-    "id": 5,
-    "nome": "Produto 5",
-    "categoria": "Informática",
-    "preco": 1798.12,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 145,
-    "avaliacao": 3.0,
-    "tags": [
-      "novo",
-      "premium"
-    ]
-  },
-  {
-    "id": 6,
-    "nome": "Produto 6",
-    "categoria": "Eletrônicos",
-    "preco": 2641.03,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 479,
-    "avaliacao": 3.6,
-    "tags": [
-      "premium",
-      "mais vendido"
-    ]
-  },
-  {
-    "id": 7,
-    "nome": "Produto 7",
-    "categoria": "Acessórios",
-    "preco": 1168.14,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 200,
-    "avaliacao": 4.1,
-    "tags": [
-      "mais vendido",
-      "premium"
-    ]
-  },
-  {
-    "id": 8,
-    "nome": "Produto 8",
-    "categoria": "Eletrônicos",
-    "preco": 774.93,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 48,
-    "avaliacao": 3.7,
-    "tags": [
-      "novo",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
-    "id": 9,
-    "nome": "Produto 9",
-    "categoria": "Eletrônicos",
-    "preco": 4130.6,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 339,
-    "avaliacao": 4.3,
+    "id": 4,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 5283.34,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 487,
+    "avaliacao": 4.8,
     "tags": [
-      "promoção",
-      "novo"
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 4186.62,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 123,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 3292.38,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 163,
+    "avaliacao": 4.5,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 7980.01,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 132,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 4705.89,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 292,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 5521.91,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 326,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 10,
-    "nome": "Produto 10",
-    "categoria": "Acessórios",
-    "preco": 6345.0,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 319,
-    "avaliacao": 4.7,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 4107.79,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 432,
+    "avaliacao": 3.8,
     "tags": [
-      "novo",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 11,
-    "nome": "Produto 11",
-    "categoria": "Acessórios",
-    "preco": 7234.15,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 269,
-    "avaliacao": 4.8,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 1530.97,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 49,
+    "avaliacao": 4.2,
     "tags": [
-      "premium",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 12,
-    "nome": "Produto 12",
-    "categoria": "Acessórios",
-    "preco": 8735.93,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 433,
-    "avaliacao": 3.0,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 6127.05,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 93,
+    "avaliacao": 4.9,
     "tags": [
-      "premium",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 13,
-    "nome": "Produto 13",
+    "nome": "Galaxy S23",
     "categoria": "Eletrônicos",
-    "preco": 2108.48,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 90,
+    "preco": 1855.8,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 114,
     "avaliacao": 4.6,
     "tags": [
-      "premium",
-      "promoção"
+      "mais vendidos"
     ]
   },
   {
     "id": 14,
-    "nome": "Produto 14",
-    "categoria": "Acessórios",
-    "preco": 6671.06,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 164,
-    "avaliacao": 4.8,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 3036.29,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 299,
+    "avaliacao": 3.9,
     "tags": [
-      "novo",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 15,
-    "nome": "Produto 15",
-    "categoria": "Acessórios",
-    "preco": 2573.05,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 487,
-    "avaliacao": 4.8,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 524.05,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 324,
+    "avaliacao": 4.4,
     "tags": [
-      "novo",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 16,
-    "nome": "Produto 16",
-    "categoria": "Informática",
-    "preco": 2600.7,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 226,
-    "avaliacao": 4.4,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 3830.54,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 99,
+    "avaliacao": 4.3,
     "tags": [
-      "premium",
-      "novo"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 17,
-    "nome": "Produto 17",
-    "categoria": "Informática",
-    "preco": 4908.6,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 327,
-    "avaliacao": 4.4,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 4285.72,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 211,
+    "avaliacao": 3.6,
     "tags": [
-      "premium",
-      "novo"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 18,
-    "nome": "Produto 18",
+    "nome": "Smart TV 50''",
     "categoria": "Eletrônicos",
-    "preco": 7171.41,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 421,
-    "avaliacao": 4.6,
+    "preco": 7939.55,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 175,
+    "avaliacao": 4.1,
     "tags": [
-      "novo",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 19,
-    "nome": "Produto 19",
-    "categoria": "Informática",
-    "preco": 2462.14,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 222,
-    "avaliacao": 3.9,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 1231.47,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 441,
+    "avaliacao": 4.6,
     "tags": [
-      "premium",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 20,
-    "nome": "Produto 20",
-    "categoria": "Informática",
-    "preco": 3279.48,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 98,
-    "avaliacao": 4.2,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 2727.77,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 90,
+    "avaliacao": 4.0,
     "tags": [
-      "promoção",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 21,
-    "nome": "Produto 21",
-    "categoria": "Informática",
-    "preco": 6610.66,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 319,
-    "avaliacao": 3.7,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 2260.87,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 389,
+    "avaliacao": 4.7,
     "tags": [
-      "novo",
-      "premium"
-    ]
-  },
-  {
-    "id": 22,
-    "nome": "Produto 22",
-    "categoria": "Acessórios",
-    "preco": 2267.66,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 452,
-    "avaliacao": 3.5,
-    "tags": [
-      "premium",
-      "novo"
-    ]
-  },
-  {
-    "id": 23,
-    "nome": "Produto 23",
-    "categoria": "Informática",
-    "preco": 2963.53,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 137,
-    "avaliacao": 4.3,
-    "tags": [
-      "promoção",
-      "premium"
-    ]
-  },
-  {
-    "id": 24,
-    "nome": "Produto 24",
-    "categoria": "Acessórios",
-    "preco": 5981.7,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 37,
-    "avaliacao": 4.5,
-    "tags": [
-      "premium",
-      "mais vendido"
-    ]
-  },
-  {
-    "id": 25,
-    "nome": "Produto 25",
-    "categoria": "Acessórios",
-    "preco": 4321.13,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 453,
-    "avaliacao": 4.0,
-    "tags": [
-      "mais vendido",
-      "premium"
-    ]
-  },
-  {
-    "id": 26,
-    "nome": "Produto 26",
-    "categoria": "Acessórios",
-    "preco": 2237.75,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 92,
-    "avaliacao": 4.5,
-    "tags": [
-      "novo",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
-    "id": 27,
-    "nome": "Produto 27",
+    "id": 22,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 3967.66,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 390,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 5104.55,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 206,
+    "avaliacao": 4.1,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 398.03,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 102,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 6079.1,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 271,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Notebook Inspiron",
     "categoria": "Informática",
-    "preco": 1997.07,
+    "preco": 1887.5,
     "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 126,
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 449,
     "avaliacao": 4.0,
     "tags": [
-      "promoção",
-      "mais vendido"
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 4076.36,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 156,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 28,
-    "nome": "Produto 28",
-    "categoria": "Eletrônicos",
-    "preco": 1769.71,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 231,
-    "avaliacao": 4.2,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 7592.86,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 233,
+    "avaliacao": 4.6,
     "tags": [
-      "premium",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 29,
-    "nome": "Produto 29",
-    "categoria": "Eletrônicos",
-    "preco": 5283.43,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 341,
-    "avaliacao": 3.3,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 3525.96,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 351,
+    "avaliacao": 5.0,
     "tags": [
-      "novo",
-      "mais vendido"
+      "mais vendidos"
     ]
   },
   {
     "id": 30,
-    "nome": "Produto 30",
-    "categoria": "Acessórios",
-    "preco": 4410.48,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 243,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 2938.08,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 96,
     "avaliacao": 3.7,
     "tags": [
-      "promoção",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 31,
-    "nome": "Produto 31",
-    "categoria": "Acessórios",
-    "preco": 8749.71,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 27,
-    "avaliacao": 4.1,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 251.09,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 114,
+    "avaliacao": 4.6,
     "tags": [
-      "mais vendido",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 32,
-    "nome": "Produto 32",
+    "nome": "iPhone 14",
     "categoria": "Eletrônicos",
-    "preco": 4912.94,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 282,
-    "avaliacao": 3.6,
+    "preco": 4758.57,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 86,
+    "avaliacao": 3.7,
     "tags": [
-      "promoção",
-      "novo"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 33,
-    "nome": "Produto 33",
-    "categoria": "Acessórios",
-    "preco": 6361.28,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 171,
-    "avaliacao": 4.8,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 3064.02,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 327,
+    "avaliacao": 3.9,
     "tags": [
-      "mais vendido",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 34,
-    "nome": "Produto 34",
-    "categoria": "Informática",
-    "preco": 8371.64,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 4792.0,
     "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 415,
-    "avaliacao": 4.2,
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 24,
+    "avaliacao": 4.5,
     "tags": [
-      "promoção",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 35,
-    "nome": "Produto 35",
-    "categoria": "Informática",
-    "preco": 8025.71,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 426,
-    "avaliacao": 3.7,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 481.06,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 59,
+    "avaliacao": 4.1,
     "tags": [
-      "promoção",
-      "mais vendido"
+      "mais vendidos"
     ]
   },
   {
     "id": 36,
-    "nome": "Produto 36",
-    "categoria": "Acessórios",
-    "preco": 4190.87,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 270,
-    "avaliacao": 4.3,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 2096.63,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 359,
+    "avaliacao": 3.7,
     "tags": [
-      "premium",
-      "novo"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 37,
-    "nome": "Produto 37",
-    "categoria": "Acessórios",
-    "preco": 3886.31,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 257,
-    "avaliacao": 3.1,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 2478.82,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 338,
+    "avaliacao": 3.7,
     "tags": [
-      "novo",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 38,
-    "nome": "Produto 38",
-    "categoria": "Acessórios",
-    "preco": 3102.62,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 484,
-    "avaliacao": 3.2,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 4884.51,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 70,
+    "avaliacao": 4.1,
     "tags": [
-      "promoção",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 39,
-    "nome": "Produto 39",
-    "categoria": "Acessórios",
-    "preco": 7733.52,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 84,
-    "avaliacao": 3.5,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 5778.25,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 60,
+    "avaliacao": 3.9,
     "tags": [
-      "mais vendido",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 40,
-    "nome": "Produto 40",
-    "categoria": "Informática",
-    "preco": 7022.9,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 85,
-    "avaliacao": 4.2,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 1669.31,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 102,
+    "avaliacao": 4.7,
     "tags": [
-      "premium",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 41,
-    "nome": "Produto 41",
-    "categoria": "Eletrônicos",
-    "preco": 6318.7,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 406,
-    "avaliacao": 4.0,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 2927.58,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 209,
+    "avaliacao": 3.9,
     "tags": [
-      "mais vendido",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 42,
-    "nome": "Produto 42",
-    "categoria": "Eletrônicos",
-    "preco": 3298.63,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 280,
-    "avaliacao": 4.4,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 7291.82,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 352,
+    "avaliacao": 4.9,
     "tags": [
-      "promoção",
-      "mais vendido"
+      "mais vendidos"
     ]
   },
   {
     "id": 43,
-    "nome": "Produto 43",
-    "categoria": "Informática",
-    "preco": 6510.13,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 9,
-    "avaliacao": 4.3,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 200.72,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 45,
+    "avaliacao": 4.9,
     "tags": [
-      "novo",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 44,
-    "nome": "Produto 44",
-    "categoria": "Acessórios",
-    "preco": 6630.04,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 253,
-    "avaliacao": 3.1,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 1278.24,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 46,
+    "avaliacao": 4.7,
     "tags": [
-      "novo",
-      "mais vendido"
+      "mais vendidos"
     ]
   },
   {
     "id": 45,
-    "nome": "Produto 45",
-    "categoria": "Informática",
-    "preco": 1891.28,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 18,
-    "avaliacao": 3.2,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 7247.76,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 329,
+    "avaliacao": 3.8,
     "tags": [
-      "promoção",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 46,
-    "nome": "Produto 46",
-    "categoria": "Eletrônicos",
-    "preco": 1611.08,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 497,
-    "avaliacao": 4.8,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 2186.59,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 25,
+    "avaliacao": 3.6,
     "tags": [
-      "premium",
-      "mais vendido"
+      "mais vendidos"
     ]
   },
   {
     "id": 47,
-    "nome": "Produto 47",
-    "categoria": "Informática",
-    "preco": 4746.25,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 67,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 6832.76,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 184,
     "avaliacao": 4.7,
     "tags": [
-      "novo",
-      "premium"
+      "mais vendidos"
     ]
   },
   {
     "id": 48,
-    "nome": "Produto 48",
+    "nome": "Galaxy S23",
     "categoria": "Eletrônicos",
-    "preco": 4089.28,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 26,
-    "avaliacao": 3.8,
+    "preco": 850.49,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 388,
+    "avaliacao": 4.8,
     "tags": [
-      "mais vendido",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 49,
-    "nome": "Produto 49",
+    "nome": "Smart TV 50''",
     "categoria": "Eletrônicos",
-    "preco": 1719.47,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 291,
-    "avaliacao": 4.6,
+    "preco": 5340.5,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 87,
+    "avaliacao": 4.0,
     "tags": [
-      "mais vendido",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 50,
-    "nome": "Produto 50",
-    "categoria": "Eletrônicos",
-    "preco": 5714.49,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 165,
-    "avaliacao": 4.0,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 2219.64,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 375,
+    "avaliacao": 3.6,
     "tags": [
-      "mais vendido",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 51,
-    "nome": "Produto 51",
+    "nome": "Smart TV 50''",
     "categoria": "Eletrônicos",
-    "preco": 6407.55,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 121,
-    "avaliacao": 3.7,
+    "preco": 999.27,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 204,
+    "avaliacao": 4.9,
     "tags": [
-      "premium",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 52,
-    "nome": "Produto 52",
-    "categoria": "Informática",
-    "preco": 7366.01,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 61,
-    "avaliacao": 3.7,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 5550.23,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 244,
+    "avaliacao": 4.7,
     "tags": [
-      "mais vendido",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 53,
-    "nome": "Produto 53",
-    "categoria": "Acessórios",
-    "preco": 5546.05,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 993.15,
     "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 361,
-    "avaliacao": 3.6,
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 356,
+    "avaliacao": 4.6,
     "tags": [
-      "novo",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 54,
-    "nome": "Produto 54",
+    "nome": "Smart TV 50''",
     "categoria": "Eletrônicos",
-    "preco": 7664.05,
+    "preco": 919.33,
     "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 44,
-    "avaliacao": 3.1,
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 466,
+    "avaliacao": 4.4,
     "tags": [
-      "premium",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 55,
-    "nome": "Produto 55",
-    "categoria": "Informática",
-    "preco": 177.0,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 463,
-    "avaliacao": 4.4,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 1531.96,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 194,
+    "avaliacao": 4.7,
     "tags": [
-      "mais vendido",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 56,
-    "nome": "Produto 56",
-    "categoria": "Informática",
-    "preco": 8319.3,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 465,
-    "avaliacao": 3.5,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 3916.33,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 249,
+    "avaliacao": 3.7,
     "tags": [
-      "promoção",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 57,
-    "nome": "Produto 57",
+    "nome": "iPhone 14",
     "categoria": "Eletrônicos",
-    "preco": 2152.46,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 363,
-    "avaliacao": 3.1,
-    "tags": [
-      "promoção",
-      "novo"
-    ]
-  },
-  {
-    "id": 58,
-    "nome": "Produto 58",
-    "categoria": "Acessórios",
-    "preco": 5907.49,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
+    "preco": 600.35,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
     "estoque": 335,
-    "avaliacao": 4.3,
+    "avaliacao": 4.0,
     "tags": [
-      "promoção",
-      "premium"
-    ]
-  },
-  {
-    "id": 59,
-    "nome": "Produto 59",
-    "categoria": "Informática",
-    "preco": 82.88,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 3,
-    "avaliacao": 4.9,
-    "tags": [
-      "premium",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
-    "id": 60,
-    "nome": "Produto 60",
-    "categoria": "Eletrônicos",
-    "preco": 2250.81,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 13,
-    "avaliacao": 4.4,
+    "id": 58,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 6163.48,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 295,
+    "avaliacao": 4.6,
     "tags": [
-      "novo",
-      "mais vendido"
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 4200.89,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 352,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 3907.24,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 339,
+    "avaliacao": 4.5,
+    "tags": [
+      "mais vendidos"
     ]
   },
   {
     "id": 61,
-    "nome": "Produto 61",
-    "categoria": "Eletrônicos",
-    "preco": 852.9,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 309,
-    "avaliacao": 4.4,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 7147.29,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 313,
+    "avaliacao": 3.6,
     "tags": [
-      "mais vendido",
-      "novo"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 62,
-    "nome": "Produto 62",
+    "nome": "Smart TV 50''",
     "categoria": "Eletrônicos",
-    "preco": 6707.51,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 165,
+    "preco": 4093.98,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 240,
     "avaliacao": 4.8,
     "tags": [
-      "novo",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 63,
-    "nome": "Produto 63",
+    "nome": "Galaxy S23",
     "categoria": "Eletrônicos",
-    "preco": 1140.44,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 299,
-    "avaliacao": 4.6,
+    "preco": 6036.3,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 164,
+    "avaliacao": 3.9,
     "tags": [
-      "novo",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 64,
-    "nome": "Produto 64",
-    "categoria": "Acessórios",
-    "preco": 7676.31,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 305,
-    "avaliacao": 3.2,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 4104.74,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 281,
+    "avaliacao": 4.5,
     "tags": [
-      "mais vendido",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 65,
-    "nome": "Produto 65",
-    "categoria": "Eletrônicos",
-    "preco": 8535.37,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 55,
-    "avaliacao": 4.2,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 722.76,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 227,
+    "avaliacao": 4.7,
     "tags": [
-      "premium",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 66,
-    "nome": "Produto 66",
-    "categoria": "Acessórios",
-    "preco": 3020.67,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 43,
-    "avaliacao": 3.2,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 3631.84,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 60,
+    "avaliacao": 5.0,
     "tags": [
-      "promoção",
-      "novo"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 67,
-    "nome": "Produto 67",
-    "categoria": "Informática",
-    "preco": 3871.96,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 53,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 910.88,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 211,
     "avaliacao": 3.6,
     "tags": [
-      "novo",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 68,
-    "nome": "Produto 68",
-    "categoria": "Informática",
-    "preco": 622.01,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 405,
-    "avaliacao": 3.3,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 6355.09,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 493,
+    "avaliacao": 4.4,
     "tags": [
-      "premium",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 69,
-    "nome": "Produto 69",
-    "categoria": "Eletrônicos",
-    "preco": 8075.68,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 401,
-    "avaliacao": 4.2,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 4542.43,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 335,
+    "avaliacao": 4.5,
     "tags": [
-      "premium",
-      "mais vendido"
-    ]
-  },
-  {
-    "id": 70,
-    "nome": "Produto 70",
-    "categoria": "Eletrônicos",
-    "preco": 491.45,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 493,
-    "avaliacao": 3.6,
-    "tags": [
-      "promoção",
-      "novo"
-    ]
-  },
-  {
-    "id": 71,
-    "nome": "Produto 71",
-    "categoria": "Acessórios",
-    "preco": 1056.07,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 102,
-    "avaliacao": 4.9,
-    "tags": [
-      "premium",
-      "mais vendido"
-    ]
-  },
-  {
-    "id": 72,
-    "nome": "Produto 72",
-    "categoria": "Eletrônicos",
-    "preco": 6434.4,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 220,
-    "avaliacao": 4.1,
-    "tags": [
-      "mais vendido",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
-    "id": 73,
-    "nome": "Produto 73",
-    "categoria": "Informática",
-    "preco": 4900.76,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 466,
+    "id": 70,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 6619.96,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 418,
     "avaliacao": 3.8,
     "tags": [
-      "mais vendido",
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 71,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 6162.59,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 307,
+    "avaliacao": 4.2,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 72,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 1000.78,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 388,
+    "avaliacao": 4.5,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 73,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 6656.08,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 493,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 74,
-    "nome": "Produto 74",
-    "categoria": "Eletrônicos",
-    "preco": 3571.82,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 480,
-    "avaliacao": 4.5,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 5646.56,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 23,
+    "avaliacao": 4.8,
     "tags": [
-      "premium",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 75,
-    "nome": "Produto 75",
-    "categoria": "Acessórios",
-    "preco": 7628.92,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 117,
-    "avaliacao": 5.0,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 945.0,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 312,
+    "avaliacao": 3.8,
     "tags": [
-      "mais vendido",
-      "promoção"
+      "mais vendidos"
     ]
   },
   {
     "id": 76,
-    "nome": "Produto 76",
-    "categoria": "Eletrônicos",
-    "preco": 6638.57,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 418,
-    "avaliacao": 3.7,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 1803.16,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 422,
+    "avaliacao": 4.7,
     "tags": [
-      "premium",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 77,
-    "nome": "Produto 77",
+    "nome": "Galaxy S23",
     "categoria": "Eletrônicos",
-    "preco": 8585.33,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 431,
-    "avaliacao": 4.4,
+    "preco": 6081.48,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 23,
+    "avaliacao": 4.9,
     "tags": [
-      "promoção",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 78,
-    "nome": "Produto 78",
-    "categoria": "Eletrônicos",
-    "preco": 7268.78,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 338,
-    "avaliacao": 4.6,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 1073.43,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 456,
+    "avaliacao": 4.2,
     "tags": [
-      "promoção",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 79,
-    "nome": "Produto 79",
-    "categoria": "Eletrônicos",
-    "preco": 6327.03,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 129,
-    "avaliacao": 3.8,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 1163.62,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 255,
+    "avaliacao": 3.5,
     "tags": [
-      "promoção",
-      "novo"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 80,
-    "nome": "Produto 80",
-    "categoria": "Informática",
-    "preco": 1358.53,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 345,
-    "avaliacao": 4.8,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 7488.94,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 429,
+    "avaliacao": 4.4,
     "tags": [
-      "mais vendido",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 81,
-    "nome": "Produto 81",
-    "categoria": "Informática",
-    "preco": 8788.95,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 404,
-    "avaliacao": 4.7,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 5565.36,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 88,
+    "avaliacao": 4.6,
     "tags": [
-      "promoção",
-      "premium"
+      "mais vendidos"
     ]
   },
   {
     "id": 82,
-    "nome": "Produto 82",
-    "categoria": "Acessórios",
-    "preco": 7298.29,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 73,
-    "avaliacao": 4.2,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 5294.42,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 310,
+    "avaliacao": 4.8,
     "tags": [
-      "novo",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 83,
-    "nome": "Produto 83",
-    "categoria": "Informática",
-    "preco": 227.28,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 70,
-    "avaliacao": 3.4,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 3407.45,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 311,
+    "avaliacao": 4.9,
     "tags": [
-      "premium",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 84,
-    "nome": "Produto 84",
-    "categoria": "Informática",
-    "preco": 256.91,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 275,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 3243.17,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 175,
     "avaliacao": 5.0,
     "tags": [
-      "mais vendido",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 85,
-    "nome": "Produto 85",
-    "categoria": "Acessórios",
-    "preco": 1763.28,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 429,
-    "avaliacao": 3.4,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 1191.62,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 308,
+    "avaliacao": 4.6,
     "tags": [
-      "premium",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 86,
-    "nome": "Produto 86",
-    "categoria": "Eletrônicos",
-    "preco": 1606.88,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 59,
-    "avaliacao": 3.4,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 6760.29,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 280,
+    "avaliacao": 4.8,
     "tags": [
-      "mais vendido",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 87,
-    "nome": "Produto 87",
-    "categoria": "Acessórios",
-    "preco": 8750.33,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 101,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 5097.41,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 102,
     "avaliacao": 3.8,
     "tags": [
-      "mais vendido",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 88,
-    "nome": "Produto 88",
-    "categoria": "Informática",
-    "preco": 3414.66,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 56,
-    "avaliacao": 4.4,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 7377.41,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 67,
+    "avaliacao": 5.0,
     "tags": [
-      "novo",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 89,
-    "nome": "Produto 89",
-    "categoria": "Acessórios",
-    "preco": 893.99,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 253,
-    "avaliacao": 4.0,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 4080.76,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 355,
+    "avaliacao": 4.5,
     "tags": [
-      "mais vendido",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 90,
-    "nome": "Produto 90",
-    "categoria": "Acessórios",
-    "preco": 2529.73,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 265,
-    "avaliacao": 4.0,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 4542.01,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 298,
+    "avaliacao": 4.4,
     "tags": [
-      "premium",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 91,
-    "nome": "Produto 91",
-    "categoria": "Eletrônicos",
-    "preco": 5750.67,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 208,
-    "avaliacao": 3.2,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 5426.52,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 457,
+    "avaliacao": 4.8,
     "tags": [
-      "novo",
-      "mais vendido"
+      "mais vendidos"
     ]
   },
   {
     "id": 92,
-    "nome": "Produto 92",
-    "categoria": "Acessórios",
-    "preco": 8989.79,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 499,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 6485.61,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 267,
     "avaliacao": 3.7,
     "tags": [
-      "mais vendido",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 93,
-    "nome": "Produto 93",
-    "categoria": "Acessórios",
-    "preco": 3823.42,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 175,
-    "avaliacao": 3.4,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 5395.01,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 102,
+    "avaliacao": 3.9,
     "tags": [
-      "novo",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 94,
-    "nome": "Produto 94",
-    "categoria": "Eletrônicos",
-    "preco": 148.77,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 9,
-    "avaliacao": 3.6,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 5498.78,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 74,
+    "avaliacao": 4.8,
     "tags": [
-      "novo",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 95,
-    "nome": "Produto 95",
-    "categoria": "Acessórios",
-    "preco": 7993.06,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 206,
-    "avaliacao": 3.2,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 1711.61,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 277,
+    "avaliacao": 3.5,
     "tags": [
-      "promoção",
-      "novo"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 96,
-    "nome": "Produto 96",
-    "categoria": "Acessórios",
-    "preco": 115.02,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 482,
-    "avaliacao": 4.9,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 4967.26,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 345,
+    "avaliacao": 4.6,
     "tags": [
-      "promoção",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 97,
-    "nome": "Produto 97",
-    "categoria": "Acessórios",
-    "preco": 54.91,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 94,
-    "avaliacao": 4.2,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 3172.2,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 261,
+    "avaliacao": 4.7,
     "tags": [
-      "premium",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 98,
-    "nome": "Produto 98",
-    "categoria": "Eletrônicos",
-    "preco": 432.58,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 139,
-    "avaliacao": 4.6,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 5574.19,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 24,
+    "avaliacao": 4.9,
     "tags": [
-      "novo",
-      "premium"
+      "mais vendidos"
     ]
   },
   {
     "id": 99,
-    "nome": "Produto 99",
-    "categoria": "Informática",
-    "preco": 8818.99,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 440,
-    "avaliacao": 4.1,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 7730.08,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 27,
+    "avaliacao": 3.5,
     "tags": [
-      "mais vendido",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 100,
-    "nome": "Produto 100",
-    "categoria": "Eletrônicos",
-    "preco": 3367.14,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 471,
-    "avaliacao": 3.7,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 6963.91,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 440,
+    "avaliacao": 4.8,
     "tags": [
-      "premium",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 101,
-    "nome": "Produto 101",
-    "categoria": "Acessórios",
-    "preco": 6202.22,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 312,
-    "avaliacao": 4.7,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 6065.35,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 279,
+    "avaliacao": 4.6,
     "tags": [
-      "mais vendido",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 102,
-    "nome": "Produto 102",
-    "categoria": "Acessórios",
-    "preco": 8068.52,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 7,
-    "avaliacao": 4.3,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 2424.0,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 90,
+    "avaliacao": 5.0,
     "tags": [
-      "novo",
-      "premium"
+      "mais vendidos"
     ]
   },
   {
     "id": 103,
-    "nome": "Produto 103",
+    "nome": "Smart TV 50''",
     "categoria": "Eletrônicos",
-    "preco": 7151.12,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 241,
-    "avaliacao": 4.0,
+    "preco": 5907.13,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 61,
+    "avaliacao": 4.1,
     "tags": [
-      "promoção",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 104,
-    "nome": "Produto 104",
-    "categoria": "Eletrônicos",
-    "preco": 4256.57,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 484,
-    "avaliacao": 3.9,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 2187.49,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 82,
+    "avaliacao": 4.4,
     "tags": [
-      "novo",
-      "mais vendido"
+      "mais vendidos"
     ]
   },
   {
     "id": 105,
-    "nome": "Produto 105",
-    "categoria": "Eletrônicos",
-    "preco": 1181.68,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 222,
-    "avaliacao": 3.5,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 3784.02,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 479,
+    "avaliacao": 3.7,
     "tags": [
-      "mais vendido",
-      "premium"
+      "mais vendidos"
     ]
   },
   {
     "id": 106,
-    "nome": "Produto 106",
-    "categoria": "Acessórios",
-    "preco": 7290.13,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 268,
-    "avaliacao": 3.0,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 4815.35,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 396,
+    "avaliacao": 4.9,
     "tags": [
-      "novo",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 107,
-    "nome": "Produto 107",
-    "categoria": "Eletrônicos",
-    "preco": 4078.78,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 3975.35,
     "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 109,
-    "avaliacao": 3.5,
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 293,
+    "avaliacao": 4.3,
     "tags": [
-      "mais vendido",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 108,
-    "nome": "Produto 108",
-    "categoria": "Eletrônicos",
-    "preco": 3681.31,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 284,
-    "avaliacao": 3.1,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 4250.62,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 489,
+    "avaliacao": 3.8,
     "tags": [
-      "mais vendido",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 109,
-    "nome": "Produto 109",
-    "categoria": "Acessórios",
-    "preco": 3945.2,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 494,
-    "avaliacao": 4.2,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 1359.03,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 278,
+    "avaliacao": 4.3,
     "tags": [
-      "premium",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 110,
-    "nome": "Produto 110",
-    "categoria": "Acessórios",
-    "preco": 373.59,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 97,
-    "avaliacao": 4.9,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 7078.83,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 339,
+    "avaliacao": 4.0,
     "tags": [
-      "promoção",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 111,
-    "nome": "Produto 111",
-    "categoria": "Eletrônicos",
-    "preco": 5837.86,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 7607.44,
     "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 260,
-    "avaliacao": 3.8,
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 316,
+    "avaliacao": 4.3,
     "tags": [
-      "mais vendido",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 112,
-    "nome": "Produto 112",
-    "categoria": "Informática",
-    "preco": 557.28,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 183,
-    "avaliacao": 3.7,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 1006.3,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 177,
+    "avaliacao": 4.2,
     "tags": [
-      "novo",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 113,
-    "nome": "Produto 113",
-    "categoria": "Eletrônicos",
-    "preco": 772.83,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 396,
-    "avaliacao": 3.5,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 7357.0,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 124,
+    "avaliacao": 4.9,
     "tags": [
-      "promoção",
-      "premium"
-    ]
-  },
-  {
-    "id": 114,
-    "nome": "Produto 114",
-    "categoria": "Acessórios",
-    "preco": 5537.08,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 451,
-    "avaliacao": 3.0,
-    "tags": [
-      "novo",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
-    "id": 115,
-    "nome": "Produto 115",
-    "categoria": "Informática",
-    "preco": 4883.18,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 339,
-    "avaliacao": 4.3,
+    "id": 114,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 3112.84,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 407,
+    "avaliacao": 4.9,
     "tags": [
-      "novo",
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 115,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 5819.41,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 12,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 116,
-    "nome": "Produto 116",
-    "categoria": "Informática",
-    "preco": 6592.94,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 496,
-    "avaliacao": 4.6,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 4163.04,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 260,
+    "avaliacao": 4.2,
     "tags": [
-      "novo",
-      "premium"
+      "mais vendidos"
     ]
   },
   {
     "id": 117,
-    "nome": "Produto 117",
-    "categoria": "Acessórios",
-    "preco": 7541.02,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 449,
-    "avaliacao": 4.7,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 2630.47,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 42,
+    "avaliacao": 4.9,
     "tags": [
-      "premium",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 118,
-    "nome": "Produto 118",
-    "categoria": "Eletrônicos",
-    "preco": 5556.53,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 478,
-    "avaliacao": 4.1,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 4312.33,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 320,
+    "avaliacao": 3.6,
     "tags": [
-      "novo",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 119,
-    "nome": "Produto 119",
+    "nome": "Notebook Inspiron",
     "categoria": "Informática",
-    "preco": 8840.81,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 382,
+    "preco": 6933.11,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 217,
     "avaliacao": 4.8,
     "tags": [
-      "mais vendido",
-      "premium"
+      "mais vendidos"
     ]
   },
   {
     "id": 120,
-    "nome": "Produto 120",
-    "categoria": "Acessórios",
-    "preco": 501.84,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 251,
-    "avaliacao": 3.0,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 5207.83,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 481,
+    "avaliacao": 3.6,
     "tags": [
-      "mais vendido",
-      "novo"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 121,
-    "nome": "Produto 121",
-    "categoria": "Informática",
-    "preco": 7245.08,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 279,
-    "avaliacao": 3.5,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 3727.88,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 169,
+    "avaliacao": 3.6,
     "tags": [
-      "promoção",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 122,
-    "nome": "Produto 122",
-    "categoria": "Acessórios",
-    "preco": 3028.82,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 109,
-    "avaliacao": 3.8,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 6374.3,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 285,
+    "avaliacao": 3.6,
     "tags": [
-      "novo",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 123,
-    "nome": "Produto 123",
-    "categoria": "Acessórios",
-    "preco": 2940.45,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 113,
-    "avaliacao": 4.3,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 3320.3,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 230,
+    "avaliacao": 4.4,
     "tags": [
-      "premium",
-      "mais vendido"
+      "mais vendidos"
     ]
   },
   {
     "id": 124,
-    "nome": "Produto 124",
-    "categoria": "Acessórios",
-    "preco": 6377.47,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 408,
-    "avaliacao": 3.9,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 3177.06,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 60,
+    "avaliacao": 4.3,
     "tags": [
-      "promoção",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 125,
-    "nome": "Produto 125",
-    "categoria": "Acessórios",
-    "preco": 4584.16,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 416,
-    "avaliacao": 4.9,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 599.58,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 381,
+    "avaliacao": 4.4,
     "tags": [
-      "novo",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 126,
-    "nome": "Produto 126",
-    "categoria": "Acessórios",
-    "preco": 2288.92,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 47,
-    "avaliacao": 4.6,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 2925.83,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 257,
+    "avaliacao": 3.7,
     "tags": [
-      "novo",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 127,
-    "nome": "Produto 127",
-    "categoria": "Informática",
-    "preco": 7600.55,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 338,
-    "avaliacao": 3.5,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 4891.87,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 144,
+    "avaliacao": 4.6,
     "tags": [
-      "novo",
-      "premium"
+      "mais vendidos"
     ]
   },
   {
     "id": 128,
-    "nome": "Produto 128",
-    "categoria": "Acessórios",
-    "preco": 8466.44,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 93,
-    "avaliacao": 4.5,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 6594.77,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 15,
+    "avaliacao": 4.2,
     "tags": [
-      "novo",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 129,
-    "nome": "Produto 129",
-    "categoria": "Informática",
-    "preco": 1756.21,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 400,
-    "avaliacao": 3.8,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 5999.36,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 407,
+    "avaliacao": 4.7,
     "tags": [
-      "novo",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 130,
-    "nome": "Produto 130",
+    "nome": "Smart TV 50''",
     "categoria": "Eletrônicos",
-    "preco": 2102.74,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 231,
-    "avaliacao": 4.2,
+    "preco": 2454.65,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 454,
+    "avaliacao": 4.9,
     "tags": [
-      "mais vendido",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 131,
-    "nome": "Produto 131",
-    "categoria": "Eletrônicos",
-    "preco": 8790.61,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 229,
-    "avaliacao": 4.4,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 7663.39,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 5,
+    "avaliacao": 4.3,
     "tags": [
-      "mais vendido",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 132,
-    "nome": "Produto 132",
-    "categoria": "Acessórios",
-    "preco": 2224.79,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 55,
-    "avaliacao": 3.7,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 430.01,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 293,
+    "avaliacao": 4.4,
     "tags": [
-      "mais vendido",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 133,
-    "nome": "Produto 133",
-    "categoria": "Informática",
-    "preco": 7999.62,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 18,
-    "avaliacao": 4.1,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 2507.06,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 383,
+    "avaliacao": 4.6,
     "tags": [
-      "novo",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 134,
-    "nome": "Produto 134",
-    "categoria": "Eletrônicos",
-    "preco": 2028.35,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 209,
-    "avaliacao": 4.7,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 3359.97,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 330,
+    "avaliacao": 4.8,
     "tags": [
-      "novo",
-      "premium"
+      "mais vendidos"
     ]
   },
   {
     "id": 135,
-    "nome": "Produto 135",
-    "categoria": "Acessórios",
-    "preco": 6130.86,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 227,
-    "avaliacao": 4.5,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 1844.22,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 427,
+    "avaliacao": 3.9,
     "tags": [
-      "promoção",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 136,
-    "nome": "Produto 136",
-    "categoria": "Informática",
-    "preco": 3892.6,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 35,
-    "avaliacao": 4.2,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 6832.78,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 435,
+    "avaliacao": 4.6,
     "tags": [
-      "mais vendido",
-      "novo"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 137,
-    "nome": "Produto 137",
-    "categoria": "Eletrônicos",
-    "preco": 2651.16,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 229,
-    "avaliacao": 3.8,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 3744.0,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 281,
+    "avaliacao": 3.6,
     "tags": [
-      "promoção",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 138,
-    "nome": "Produto 138",
-    "categoria": "Acessórios",
-    "preco": 7239.71,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 83,
-    "avaliacao": 4.6,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 875.8,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 371,
+    "avaliacao": 4.4,
     "tags": [
-      "promoção",
-      "novo"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 139,
-    "nome": "Produto 139",
-    "categoria": "Informática",
-    "preco": 7176.03,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 234,
-    "avaliacao": 3.1,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 1112.9,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 335,
+    "avaliacao": 3.9,
     "tags": [
-      "promoção",
-      "mais vendido"
+      "mais vendidos"
     ]
   },
   {
     "id": 140,
-    "nome": "Produto 140",
+    "nome": "Galaxy S23",
     "categoria": "Eletrônicos",
-    "preco": 3065.66,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 277,
-    "avaliacao": 5.0,
+    "preco": 7210.94,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 162,
+    "avaliacao": 4.2,
     "tags": [
-      "mais vendido",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 141,
-    "nome": "Produto 141",
-    "categoria": "Acessórios",
-    "preco": 4619.78,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 144,
-    "avaliacao": 4.0,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 5578.32,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 78,
+    "avaliacao": 4.3,
     "tags": [
-      "premium",
-      "mais vendido"
+      "mais vendidos"
     ]
   },
   {
     "id": 142,
-    "nome": "Produto 142",
-    "categoria": "Eletrônicos",
-    "preco": 6392.39,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 298,
-    "avaliacao": 3.1,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 7673.41,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 86,
+    "avaliacao": 3.5,
     "tags": [
-      "premium",
-      "mais vendido"
+      "mais vendidos"
     ]
   },
   {
     "id": 143,
-    "nome": "Produto 143",
+    "nome": "Notebook Inspiron",
     "categoria": "Informática",
-    "preco": 8470.06,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 376,
-    "avaliacao": 3.1,
+    "preco": 5726.37,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 328,
+    "avaliacao": 4.2,
     "tags": [
-      "mais vendido",
-      "novo"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 144,
-    "nome": "Produto 144",
-    "categoria": "Acessórios",
-    "preco": 1661.93,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 5468.68,
     "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 323,
-    "avaliacao": 4.9,
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 169,
+    "avaliacao": 4.8,
     "tags": [
-      "promoção",
-      "premium"
+      "mais vendidos"
     ]
   },
   {
     "id": 145,
-    "nome": "Produto 145",
-    "categoria": "Eletrônicos",
-    "preco": 7872.03,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 324,
-    "avaliacao": 3.7,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 6220.66,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 249,
+    "avaliacao": 4.3,
     "tags": [
-      "premium",
-      "promoção"
+      "mais vendidos"
     ]
   },
   {
     "id": 146,
-    "nome": "Produto 146",
-    "categoria": "Eletrônicos",
-    "preco": 8836.69,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 259,
-    "avaliacao": 3.3,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 747.59,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 143,
+    "avaliacao": 4.8,
     "tags": [
-      "mais vendido",
-      "premium"
+      "mais vendidos"
     ]
   },
   {
     "id": 147,
-    "nome": "Produto 147",
-    "categoria": "Informática",
-    "preco": 422.08,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 299,
-    "avaliacao": 4.4,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 1651.81,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 375,
+    "avaliacao": 4.8,
     "tags": [
-      "promoção",
-      "premium"
+      "mais vendidos"
     ]
   },
   {
     "id": 148,
-    "nome": "Produto 148",
-    "categoria": "Acessórios",
-    "preco": 7455.38,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 404,
-    "avaliacao": 4.2,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 7147.63,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 434,
+    "avaliacao": 4.3,
     "tags": [
-      "premium",
-      "promoção"
+      "mais vendidos"
     ]
   },
   {
     "id": 149,
-    "nome": "Produto 149",
-    "categoria": "Acessórios",
-    "preco": 4235.89,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 405,
-    "avaliacao": 3.3,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 4673.32,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 393,
+    "avaliacao": 4.4,
     "tags": [
-      "novo",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 150,
-    "nome": "Produto 150",
-    "categoria": "Acessórios",
-    "preco": 1786.62,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 471,
-    "avaliacao": 4.5,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 2158.87,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 457,
+    "avaliacao": 5.0,
     "tags": [
-      "promoção",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 151,
-    "nome": "Produto 151",
-    "categoria": "Informática",
-    "preco": 8756.74,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 386,
-    "avaliacao": 4.0,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 2989.97,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 114,
+    "avaliacao": 4.8,
     "tags": [
-      "promoção",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 152,
-    "nome": "Produto 152",
-    "categoria": "Informática",
-    "preco": 1984.22,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 114,
-    "avaliacao": 4.5,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 1157.66,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 256,
+    "avaliacao": 4.3,
     "tags": [
-      "mais vendido",
-      "promoção"
+      "mais vendidos"
     ]
   },
   {
     "id": 153,
-    "nome": "Produto 153",
-    "categoria": "Acessórios",
-    "preco": 7286.94,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 64,
-    "avaliacao": 3.6,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 183.67,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 122,
+    "avaliacao": 4.8,
     "tags": [
-      "novo",
-      "mais vendido"
-    ]
-  },
-  {
-    "id": 154,
-    "nome": "Produto 154",
-    "categoria": "Acessórios",
-    "preco": 5552.52,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 387,
-    "avaliacao": 3.3,
-    "tags": [
-      "novo",
-      "mais vendido"
-    ]
-  },
-  {
-    "id": 155,
-    "nome": "Produto 155",
-    "categoria": "Eletrônicos",
-    "preco": 662.31,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 162,
-    "avaliacao": 3.2,
-    "tags": [
-      "novo",
-      "premium"
-    ]
-  },
-  {
-    "id": 156,
-    "nome": "Produto 156",
-    "categoria": "Informática",
-    "preco": 1418.3,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 471,
-    "avaliacao": 4.7,
-    "tags": [
-      "premium",
-      "mais vendido"
-    ]
-  },
-  {
-    "id": 157,
-    "nome": "Produto 157",
-    "categoria": "Informática",
-    "preco": 7165.37,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 397,
-    "avaliacao": 4.5,
-    "tags": [
-      "premium",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
-    "id": 158,
-    "nome": "Produto 158",
-    "categoria": "Acessórios",
-    "preco": 3028.54,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 380,
-    "avaliacao": 4.8,
+    "id": 154,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 5504.88,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 387,
+    "avaliacao": 4.3,
     "tags": [
-      "novo",
-      "mais vendido"
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 155,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 4574.22,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 289,
+    "avaliacao": 4.5,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 156,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 7519.48,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 20,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 157,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 2188.42,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 119,
+    "avaliacao": 3.6,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 158,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 3165.94,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 469,
+    "avaliacao": 4.2,
+    "tags": [
+      "mais vendidos"
     ]
   },
   {
     "id": 159,
-    "nome": "Produto 159",
-    "categoria": "Eletrônicos",
-    "preco": 6538.84,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 225,
-    "avaliacao": 3.3,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 915.48,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 495,
+    "avaliacao": 4.3,
     "tags": [
-      "premium",
-      "novo"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 160,
-    "nome": "Produto 160",
-    "categoria": "Eletrônicos",
-    "preco": 5790.43,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 437,
-    "avaliacao": 4.0,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 4671.19,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 291,
+    "avaliacao": 3.8,
     "tags": [
-      "mais vendido",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 161,
-    "nome": "Produto 161",
-    "categoria": "Acessórios",
-    "preco": 3800.31,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 259,
-    "avaliacao": 3.9,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 4742.66,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 459,
+    "avaliacao": 4.8,
     "tags": [
-      "mais vendido",
-      "premium"
-    ]
-  },
-  {
-    "id": 162,
-    "nome": "Produto 162",
-    "categoria": "Eletrônicos",
-    "preco": 1854.78,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 439,
-    "avaliacao": 3.7,
-    "tags": [
-      "mais vendido",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
-    "id": 163,
-    "nome": "Produto 163",
-    "categoria": "Informática",
-    "preco": 2756.5,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 379,
-    "avaliacao": 4.4,
+    "id": 162,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 7784.13,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 114,
+    "avaliacao": 4.3,
     "tags": [
-      "novo",
-      "premium"
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 163,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 3946.21,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 246,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos"
     ]
   },
   {
     "id": 164,
-    "nome": "Produto 164",
-    "categoria": "Acessórios",
-    "preco": 7036.04,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 499,
-    "avaliacao": 4.6,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 3575.2,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 117,
+    "avaliacao": 3.6,
     "tags": [
-      "premium",
-      "novo"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 165,
-    "nome": "Produto 165",
-    "categoria": "Eletrônicos",
-    "preco": 4924.52,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 318,
-    "avaliacao": 3.3,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 1286.9,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 80,
+    "avaliacao": 4.0,
     "tags": [
-      "promoção",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 166,
-    "nome": "Produto 166",
-    "categoria": "Informática",
-    "preco": 8930.21,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 5322.77,
     "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 353,
-    "avaliacao": 4.5,
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 212,
+    "avaliacao": 4.7,
     "tags": [
-      "premium",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 167,
-    "nome": "Produto 167",
-    "categoria": "Eletrônicos",
-    "preco": 6650.92,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 269,
-    "avaliacao": 4.1,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 5434.31,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 245,
+    "avaliacao": 3.8,
     "tags": [
-      "premium",
-      "promoção"
+      "mais vendidos"
     ]
   },
   {
     "id": 168,
-    "nome": "Produto 168",
-    "categoria": "Acessórios",
-    "preco": 7930.08,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 276,
-    "avaliacao": 4.6,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 277.32,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 22,
+    "avaliacao": 3.7,
     "tags": [
-      "premium",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 169,
-    "nome": "Produto 169",
+    "nome": "Smart TV 50''",
     "categoria": "Eletrônicos",
-    "preco": 4511.31,
+    "preco": 5073.37,
     "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 72,
-    "avaliacao": 4.4,
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 20,
+    "avaliacao": 4.8,
     "tags": [
-      "novo",
-      "promoção"
+      "mais vendidos"
     ]
   },
   {
     "id": 170,
-    "nome": "Produto 170",
+    "nome": "Smart TV 50''",
     "categoria": "Eletrônicos",
-    "preco": 950.73,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 74,
-    "avaliacao": 3.0,
+    "preco": 2140.25,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 92,
+    "avaliacao": 4.3,
     "tags": [
-      "novo",
-      "premium"
+      "mais vendidos"
     ]
   },
   {
     "id": 171,
-    "nome": "Produto 171",
-    "categoria": "Informática",
-    "preco": 4253.71,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 423,
-    "avaliacao": 4.2,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 5137.22,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 449,
+    "avaliacao": 4.6,
     "tags": [
-      "promoção",
-      "mais vendido"
-    ]
-  },
-  {
-    "id": 172,
-    "nome": "Produto 172",
-    "categoria": "Acessórios",
-    "preco": 5389.25,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 220,
-    "avaliacao": 3.9,
-    "tags": [
-      "premium",
-      "mais vendido"
-    ]
-  },
-  {
-    "id": 173,
-    "nome": "Produto 173",
-    "categoria": "Informática",
-    "preco": 244.49,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 41,
-    "avaliacao": 4.8,
-    "tags": [
-      "novo",
-      "premium"
-    ]
-  },
-  {
-    "id": 174,
-    "nome": "Produto 174",
-    "categoria": "Informática",
-    "preco": 507.32,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 372,
-    "avaliacao": 4.1,
-    "tags": [
-      "novo",
-      "mais vendido"
-    ]
-  },
-  {
-    "id": 175,
-    "nome": "Produto 175",
-    "categoria": "Acessórios",
-    "preco": 2600.85,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 46,
-    "avaliacao": 3.1,
-    "tags": [
-      "premium",
-      "novo"
-    ]
-  },
-  {
-    "id": 176,
-    "nome": "Produto 176",
-    "categoria": "Eletrônicos",
-    "preco": 4784.46,
-    "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 341,
-    "avaliacao": 3.2,
-    "tags": [
-      "novo",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
-    "id": 177,
-    "nome": "Produto 177",
-    "categoria": "Acessórios",
-    "preco": 4424.16,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 393,
-    "avaliacao": 3.1,
+    "id": 172,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 7583.31,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 110,
+    "avaliacao": 4.2,
     "tags": [
-      "premium",
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 173,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 1447.48,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 425,
+    "avaliacao": 4.1,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 174,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 6581.58,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 93,
+    "avaliacao": 4.4,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 175,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 5821.08,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 175,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 176,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 1915.53,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 197,
+    "avaliacao": 3.7,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 177,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 6890.77,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 258,
+    "avaliacao": 4.5,
+    "tags": [
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 178,
-    "nome": "Produto 178",
-    "categoria": "Informática",
-    "preco": 1759.93,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 7,
-    "avaliacao": 3.0,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 860.76,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 243,
+    "avaliacao": 4.9,
     "tags": [
-      "mais vendido",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 179,
-    "nome": "Produto 179",
-    "categoria": "Eletrônicos",
-    "preco": 5779.84,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 72,
-    "avaliacao": 3.0,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 4076.3,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 60,
+    "avaliacao": 3.6,
     "tags": [
-      "promoção",
-      "novo"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 180,
-    "nome": "Produto 180",
-    "categoria": "Informática",
-    "preco": 6268.6,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 6,
-    "avaliacao": 3.7,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 4360.36,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 0,
+    "avaliacao": 4.8,
     "tags": [
-      "promoção",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 181,
-    "nome": "Produto 181",
-    "categoria": "Eletrônicos",
-    "preco": 7441.8,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 381,
-    "avaliacao": 4.4,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 4224.15,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 189,
+    "avaliacao": 4.8,
     "tags": [
-      "novo",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 182,
-    "nome": "Produto 182",
-    "categoria": "Informática",
-    "preco": 1587.16,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 366,
-    "avaliacao": 3.6,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 1912.94,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 410,
+    "avaliacao": 4.2,
     "tags": [
-      "premium",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 183,
-    "nome": "Produto 183",
-    "categoria": "Informática",
-    "preco": 5990.04,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 8,
-    "avaliacao": 3.6,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 4753.48,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 379,
+    "avaliacao": 4.9,
     "tags": [
-      "promoção",
-      "premium"
-    ]
-  },
-  {
-    "id": 184,
-    "nome": "Produto 184",
-    "categoria": "Acessórios",
-    "preco": 2795.34,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 71,
-    "avaliacao": 3.4,
-    "tags": [
-      "mais vendido",
-      "premium"
-    ]
-  },
-  {
-    "id": 185,
-    "nome": "Produto 185",
-    "categoria": "Acessórios",
-    "preco": 1551.7,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 60,
-    "avaliacao": 3.5,
-    "tags": [
-      "mais vendido",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
-    "id": 186,
-    "nome": "Produto 186",
-    "categoria": "Acessórios",
-    "preco": 2603.59,
-    "marca": "HP",
-    "descricao": "Produto da marca HP, ideal para uso pessoal e profissional.",
-    "estoque": 285,
-    "avaliacao": 4.7,
+    "id": 184,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 871.96,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 68,
+    "avaliacao": 3.9,
     "tags": [
-      "premium",
-      "novo"
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 185,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 2337.81,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 448,
+    "avaliacao": 4.3,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 186,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 5702.28,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 404,
+    "avaliacao": 3.5,
+    "tags": [
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 187,
-    "nome": "Produto 187",
-    "categoria": "Eletrônicos",
-    "preco": 1470.84,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 430,
-    "avaliacao": 3.6,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 156.83,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 335,
+    "avaliacao": 3.8,
     "tags": [
-      "premium",
-      "novo"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 188,
-    "nome": "Produto 188",
-    "categoria": "Acessórios",
-    "preco": 1007.34,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 186,
-    "avaliacao": 3.0,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 2961.93,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 79,
+    "avaliacao": 4.1,
     "tags": [
-      "mais vendido",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 189,
-    "nome": "Produto 189",
-    "categoria": "Eletrônicos",
-    "preco": 163.76,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 266,
-    "avaliacao": 4.9,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 6854.32,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 216,
+    "avaliacao": 4.3,
     "tags": [
-      "novo",
-      "premium"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 190,
-    "nome": "Produto 190",
-    "categoria": "Informática",
-    "preco": 3284.83,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 274,
-    "avaliacao": 3.6,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 6064.28,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 211,
+    "avaliacao": 4.3,
     "tags": [
-      "mais vendido",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 191,
-    "nome": "Produto 191",
+    "nome": "Smart TV 50''",
     "categoria": "Eletrônicos",
-    "preco": 6771.6,
-    "marca": "Sony",
-    "descricao": "Produto da marca Sony, ideal para uso pessoal e profissional.",
-    "estoque": 455,
-    "avaliacao": 3.8,
+    "preco": 3024.68,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 284,
+    "avaliacao": 4.2,
     "tags": [
-      "novo",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 192,
-    "nome": "Produto 192",
-    "categoria": "Informática",
-    "preco": 6949.52,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 182,
-    "avaliacao": 3.9,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 2820.41,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 361,
+    "avaliacao": 4.1,
     "tags": [
-      "promoção",
-      "novo"
+      "mais vendidos"
     ]
   },
   {
     "id": 193,
-    "nome": "Produto 193",
-    "categoria": "Informática",
-    "preco": 4532.42,
-    "marca": "Lenovo",
-    "descricao": "Produto da marca Lenovo, ideal para uso pessoal e profissional.",
-    "estoque": 459,
-    "avaliacao": 3.5,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 6007.73,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 228,
+    "avaliacao": 4.7,
     "tags": [
-      "premium",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 194,
-    "nome": "Produto 194",
-    "categoria": "Informática",
-    "preco": 6198.71,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 1794.22,
     "marca": "Samsung",
-    "descricao": "Produto da marca Samsung, ideal para uso pessoal e profissional.",
-    "estoque": 48,
-    "avaliacao": 4.0,
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 205,
+    "avaliacao": 4.7,
     "tags": [
-      "premium",
+      "mais vendidos",
       "promoção"
     ]
   },
   {
     "id": 195,
-    "nome": "Produto 195",
-    "categoria": "Acessórios",
-    "preco": 7481.72,
-    "marca": "Apple",
-    "descricao": "Produto da marca Apple, ideal para uso pessoal e profissional.",
-    "estoque": 338,
-    "avaliacao": 3.3,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 5606.75,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 361,
+    "avaliacao": 3.6,
     "tags": [
-      "mais vendido",
-      "promoção"
+      "mais vendidos"
     ]
   },
   {
     "id": 196,
-    "nome": "Produto 196",
-    "categoria": "Informática",
-    "preco": 3103.03,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 352,
-    "avaliacao": 4.3,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 6454.52,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 421,
+    "avaliacao": 3.7,
     "tags": [
-      "novo",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 197,
-    "nome": "Produto 197",
-    "categoria": "Informática",
-    "preco": 2771.14,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 180,
-    "avaliacao": 3.3,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 796.31,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 134,
+    "avaliacao": 3.8,
     "tags": [
-      "promoção",
-      "mais vendido"
+      "mais vendidos"
     ]
   },
   {
     "id": 198,
-    "nome": "Produto 198",
+    "nome": "iPhone 14",
     "categoria": "Eletrônicos",
-    "preco": 2096.55,
-    "marca": "Asus",
-    "descricao": "Produto da marca Asus, ideal para uso pessoal e profissional.",
-    "estoque": 394,
-    "avaliacao": 4.7,
+    "preco": 5823.51,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 476,
+    "avaliacao": 5.0,
     "tags": [
-      "premium",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 199,
-    "nome": "Produto 199",
-    "categoria": "Acessórios",
-    "preco": 8055.64,
-    "marca": "LG",
-    "descricao": "Produto da marca LG, ideal para uso pessoal e profissional.",
-    "estoque": 2,
-    "avaliacao": 4.1,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 2363.11,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 493,
+    "avaliacao": 4.4,
     "tags": [
-      "promoção",
-      "novo"
+      "mais vendidos",
+      "promoção"
     ]
   },
   {
     "id": 200,
-    "nome": "Produto 200",
+    "nome": "Smart TV 50''",
     "categoria": "Eletrônicos",
-    "preco": 1161.18,
-    "marca": "Dell",
-    "descricao": "Produto da marca Dell, ideal para uso pessoal e profissional.",
-    "estoque": 133,
-    "avaliacao": 4.8,
+    "preco": 5158.3,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 224,
+    "avaliacao": 3.5,
     "tags": [
-      "promoção",
-      "mais vendido"
+      "mais vendidos",
+      "promoção"
     ]
   }
 ]

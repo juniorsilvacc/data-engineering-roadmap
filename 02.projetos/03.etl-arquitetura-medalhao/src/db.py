@@ -2,6 +2,16 @@ import psycopg2
 import pandas as pd
 from psycopg2.extras import execute_batch
 
+def map_dtype(dtype):
+    if pd.api.types.is_integer_dtype(dtype):
+        return "INTEGER"
+    elif pd.api.types.is_float_dtype(dtype):
+        return "NUMERIC"
+    elif pd.api.types.is_datetime64_any_dtype(dtype):
+        return "TIMESTAMP"
+    else:
+        return "TEXT"
+
 class DB:
     def __init__(self, host, port, database, user, password):
         """Inicializa a conexão com o banco de dados"""
@@ -12,22 +22,30 @@ class DB:
             user=user,
             password=password
         )
-    
-    def create_table(self, table_name, df):
+        
+    def create_table(self, table_name, df: pd.DataFrame):
         cursor = self.conn.cursor()
+
+        columns = []
         
-        # Monta as colunas da tabela com tipo TEXT
-        columns = ", ".join([f"{col} TEXT" for col in df.columns])
-        
+        for col, dtype in df.dtypes.items():
+            sql_type = map_dtype(dtype)
+            columns.append(f"{col} {sql_type}")
+
+        columns_sql = ", ".join(columns)
+
         cursor.execute(
-            f"CREATE TABLE IF NOT EXISTS {table_name} ({columns})"
+            f"CREATE TABLE IF NOT EXISTS {table_name} ({columns_sql})"
         )
-        
+
         self.conn.commit()
         cursor.close()
 
     def insert_data(self, table_name, df: pd.DataFrame):
         cursor = self.conn.cursor()
+        
+        # Converte numpy → Python e NaN → None
+        df = df.astype(object).where(pd.notnull(df), None)
 
         # Cria os placeholders (%s) de acordo com a quantidade de colunas
         placeholders = ", ".join(["%s"] * len(df.columns))
