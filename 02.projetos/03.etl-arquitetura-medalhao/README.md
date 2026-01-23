@@ -4,8 +4,6 @@ Este projeto implementa um **pipeline ETL completo** seguindo o padrão de **Arq
 
 O objetivo é demonstrar, de forma prática, como extrair dados brutos, tratá-los, normalizá-los, armazená-los de forma estruturada e, por fim, gerar **análises e indicadores de negócio**.
 
----
-
 ## 🎯 Objetivo do Projeto
 
 - Construir um **ETL robusto e reutilizável**
@@ -13,8 +11,6 @@ O objetivo é demonstrar, de forma prática, como extrair dados brutos, tratá-l
 - Simular um ambiente real de ingestão, transformação e análise
 - Gerar **indicadores analíticos** a partir dos dados processados
 - Servir como **projeto de portfólio** para Data Engineer / Data Analyst
-
----
 
 ## 🏛️ Arquitetura Utilizada
 
@@ -78,9 +74,8 @@ Nesta etapa, os dados da Silver são utilizados para gerar **métricas e visuali
 - PostgreSQL
 - Parquet
 - Requests (API)
+- Docker
 - Arquitetura Medalhão
-
----
 
 ## 📊 Resultados Obtidos
 - Pipeline ETL completo e funcional
@@ -88,8 +83,6 @@ Nesta etapa, os dados da Silver são utilizados para gerar **métricas e visuali
 - Separação clara entre dados operacionais e analíticos
 - Geração de indicadores de negócio
 - Base sólida para dashboards e BI
-
----
 
 ### 👤 Autor
 `Projeto desenvolvido como estudo prático de Engenharia de Dados e Análise de Dados, com foco em boas práticas, arquitetura e visão de negócio.`
