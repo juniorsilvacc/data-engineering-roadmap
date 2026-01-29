@@ -1,7 +1,8 @@
 from typing import List, Dict
 from bs4 import BeautifulSoup
+from .interfaces.html_collector import HtmlCollectorInteface
 
-class HtmlCollector:
+class HtmlCollector(HtmlCollectorInteface):
 
     @classmethod
     def collect_essential_information(cls, html: str) -> List[Dict[str, str]]:

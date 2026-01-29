@@ -1,7 +1,8 @@
 from typing import Dict
 import requests
+from .interfaces.http_requester import HttpRequesterInteface
 
-class HttpRequester:
+class HttpRequester(HttpRequesterInteface):
     def  __init__(self) -> None:
         self.__url = "https://web.archive.org/web/20121007172955/https://www.nga.gov/collection/anZ1.htm"
         
