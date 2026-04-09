@@ -1,0 +1,2723 @@
+[
+  {
+    "id": 1,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 4140.96,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 339,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 5214.0,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 311,
+    "avaliacao": 3.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 604.31,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 141,
+    "avaliacao": 4.5,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 5283.34,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 487,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 4186.62,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 123,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 3292.38,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 163,
+    "avaliacao": 4.5,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 7980.01,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 132,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 4705.89,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 292,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 5521.91,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 326,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 4107.79,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 432,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 1530.97,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 49,
+    "avaliacao": 4.2,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 6127.05,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 93,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 1855.8,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 114,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 3036.29,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 299,
+    "avaliacao": 3.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 524.05,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 324,
+    "avaliacao": 4.4,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 3830.54,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 99,
+    "avaliacao": 4.3,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 4285.72,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 211,
+    "avaliacao": 3.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 7939.55,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 175,
+    "avaliacao": 4.1,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 1231.47,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 441,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 2727.77,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 90,
+    "avaliacao": 4.0,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 2260.87,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 389,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 3967.66,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 390,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 5104.55,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 206,
+    "avaliacao": 4.1,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 398.03,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 102,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 6079.1,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 271,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 1887.5,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 449,
+    "avaliacao": 4.0,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 4076.36,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 156,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 7592.86,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 233,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 3525.96,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 351,
+    "avaliacao": 5.0,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 2938.08,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 96,
+    "avaliacao": 3.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 251.09,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 114,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 4758.57,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 86,
+    "avaliacao": 3.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 3064.02,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 327,
+    "avaliacao": 3.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 4792.0,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 24,
+    "avaliacao": 4.5,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 481.06,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 59,
+    "avaliacao": 4.1,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 2096.63,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 359,
+    "avaliacao": 3.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 2478.82,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 338,
+    "avaliacao": 3.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 4884.51,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 70,
+    "avaliacao": 4.1,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 5778.25,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 60,
+    "avaliacao": 3.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 1669.31,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 102,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 2927.58,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 209,
+    "avaliacao": 3.9,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 7291.82,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 352,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 200.72,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 45,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 1278.24,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 46,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 7247.76,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 329,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 2186.59,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 25,
+    "avaliacao": 3.6,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 6832.76,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 184,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 850.49,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 388,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 5340.5,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 87,
+    "avaliacao": 4.0,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 2219.64,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 375,
+    "avaliacao": 3.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 999.27,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 204,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 5550.23,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 244,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 993.15,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 356,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 919.33,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 466,
+    "avaliacao": 4.4,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 1531.96,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 194,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 3916.33,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 249,
+    "avaliacao": 3.7,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 600.35,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 335,
+    "avaliacao": 4.0,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 6163.48,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 295,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 4200.89,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 352,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 3907.24,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 339,
+    "avaliacao": 4.5,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 61,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 7147.29,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 313,
+    "avaliacao": 3.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 62,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 4093.98,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 240,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 63,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 6036.3,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 164,
+    "avaliacao": 3.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 64,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 4104.74,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 281,
+    "avaliacao": 4.5,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 65,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 722.76,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 227,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 66,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 3631.84,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 60,
+    "avaliacao": 5.0,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 67,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 910.88,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 211,
+    "avaliacao": 3.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 68,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 6355.09,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 493,
+    "avaliacao": 4.4,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 69,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 4542.43,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 335,
+    "avaliacao": 4.5,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 70,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 6619.96,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 418,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 71,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 6162.59,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 307,
+    "avaliacao": 4.2,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 72,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 1000.78,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 388,
+    "avaliacao": 4.5,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 73,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 6656.08,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 493,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 74,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 5646.56,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 23,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 75,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 945.0,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 312,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 76,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 1803.16,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 422,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 77,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 6081.48,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 23,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 78,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 1073.43,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 456,
+    "avaliacao": 4.2,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 79,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 1163.62,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 255,
+    "avaliacao": 3.5,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 80,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 7488.94,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 429,
+    "avaliacao": 4.4,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 81,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 5565.36,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 88,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 82,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 5294.42,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 310,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 83,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 3407.45,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 311,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 84,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 3243.17,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 175,
+    "avaliacao": 5.0,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 85,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 1191.62,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 308,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 86,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 6760.29,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 280,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 87,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 5097.41,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 102,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 88,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 7377.41,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 67,
+    "avaliacao": 5.0,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 89,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 4080.76,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 355,
+    "avaliacao": 4.5,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 90,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 4542.01,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 298,
+    "avaliacao": 4.4,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 91,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 5426.52,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 457,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 92,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 6485.61,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 267,
+    "avaliacao": 3.7,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 93,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 5395.01,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 102,
+    "avaliacao": 3.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 94,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 5498.78,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 74,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 95,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 1711.61,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 277,
+    "avaliacao": 3.5,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 96,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 4967.26,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 345,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 97,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 3172.2,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 261,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 98,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 5574.19,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 24,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 99,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 7730.08,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 27,
+    "avaliacao": 3.5,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 100,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 6963.91,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 440,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 101,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 6065.35,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 279,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 102,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 2424.0,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 90,
+    "avaliacao": 5.0,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 103,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 5907.13,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 61,
+    "avaliacao": 4.1,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 104,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 2187.49,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 82,
+    "avaliacao": 4.4,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 105,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 3784.02,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 479,
+    "avaliacao": 3.7,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 106,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 4815.35,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 396,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 107,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 3975.35,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 293,
+    "avaliacao": 4.3,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 108,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 4250.62,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 489,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 109,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 1359.03,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 278,
+    "avaliacao": 4.3,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 110,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 7078.83,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 339,
+    "avaliacao": 4.0,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 111,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 7607.44,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 316,
+    "avaliacao": 4.3,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 112,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 1006.3,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 177,
+    "avaliacao": 4.2,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 113,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 7357.0,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 124,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 114,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 3112.84,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 407,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 115,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 5819.41,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 12,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 116,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 4163.04,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 260,
+    "avaliacao": 4.2,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 117,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 2630.47,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 42,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 118,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 4312.33,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 320,
+    "avaliacao": 3.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 119,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 6933.11,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 217,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 120,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 5207.83,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 481,
+    "avaliacao": 3.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 121,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 3727.88,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 169,
+    "avaliacao": 3.6,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 122,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 6374.3,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 285,
+    "avaliacao": 3.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 123,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 3320.3,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 230,
+    "avaliacao": 4.4,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 124,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 3177.06,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 60,
+    "avaliacao": 4.3,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 125,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 599.58,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 381,
+    "avaliacao": 4.4,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 126,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 2925.83,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 257,
+    "avaliacao": 3.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 127,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 4891.87,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 144,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 128,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 6594.77,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 15,
+    "avaliacao": 4.2,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 129,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 5999.36,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 407,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 130,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 2454.65,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 454,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 131,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 7663.39,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 5,
+    "avaliacao": 4.3,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 132,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 430.01,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 293,
+    "avaliacao": 4.4,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 133,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 2507.06,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 383,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 134,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 3359.97,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 330,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 135,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 1844.22,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 427,
+    "avaliacao": 3.9,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 136,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 6832.78,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 435,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 137,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 3744.0,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 281,
+    "avaliacao": 3.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 138,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 875.8,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 371,
+    "avaliacao": 4.4,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 139,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 1112.9,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 335,
+    "avaliacao": 3.9,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 140,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 7210.94,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 162,
+    "avaliacao": 4.2,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 141,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 5578.32,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 78,
+    "avaliacao": 4.3,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 142,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 7673.41,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 86,
+    "avaliacao": 3.5,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 143,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 5726.37,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 328,
+    "avaliacao": 4.2,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 144,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 5468.68,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 169,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 145,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 6220.66,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 249,
+    "avaliacao": 4.3,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 146,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 747.59,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 143,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 147,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 1651.81,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 375,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 148,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 7147.63,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 434,
+    "avaliacao": 4.3,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 149,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 4673.32,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 393,
+    "avaliacao": 4.4,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 150,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 2158.87,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 457,
+    "avaliacao": 5.0,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 151,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 2989.97,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 114,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 152,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 1157.66,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 256,
+    "avaliacao": 4.3,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 153,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 183.67,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 122,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 154,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 5504.88,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 387,
+    "avaliacao": 4.3,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 155,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 4574.22,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 289,
+    "avaliacao": 4.5,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 156,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 7519.48,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 20,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 157,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 2188.42,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 119,
+    "avaliacao": 3.6,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 158,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 3165.94,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 469,
+    "avaliacao": 4.2,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 159,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 915.48,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 495,
+    "avaliacao": 4.3,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 160,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 4671.19,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 291,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 161,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 4742.66,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 459,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 162,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 7784.13,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 114,
+    "avaliacao": 4.3,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 163,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 3946.21,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 246,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 164,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 3575.2,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 117,
+    "avaliacao": 3.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 165,
+    "nome": "Notebook Inspiron",
+    "categoria": "Informática",
+    "preco": 1286.9,
+    "marca": "Dell",
+    "descricao": "Notebook Inspiron original da marca Dell",
+    "estoque": 80,
+    "avaliacao": 4.0,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 166,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 5322.77,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 212,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 167,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 5434.31,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 245,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 168,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 277.32,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 22,
+    "avaliacao": 3.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 169,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 5073.37,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 20,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 170,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 2140.25,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 92,
+    "avaliacao": 4.3,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 171,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 5137.22,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 449,
+    "avaliacao": 4.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 172,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 7583.31,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 110,
+    "avaliacao": 4.2,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 173,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 1447.48,
+    "marca": "Brastemp",
+    "descricao": "Geladeira Frost Free original da marca Brastemp",
+    "estoque": 425,
+    "avaliacao": 4.1,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 174,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 6581.58,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 93,
+    "avaliacao": 4.4,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 175,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 5821.08,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 175,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 176,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 1915.53,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 197,
+    "avaliacao": 3.7,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 177,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 6890.77,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 258,
+    "avaliacao": 4.5,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 178,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 860.76,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 243,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 179,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 4076.3,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 60,
+    "avaliacao": 3.6,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 180,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 4360.36,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 0,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 181,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 4224.15,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 189,
+    "avaliacao": 4.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 182,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 1912.94,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 410,
+    "avaliacao": 4.2,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 183,
+    "nome": "Xbox Series X",
+    "categoria": "Games",
+    "preco": 4753.48,
+    "marca": "Microsoft",
+    "descricao": "Xbox Series X original da marca Microsoft",
+    "estoque": 379,
+    "avaliacao": 4.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 184,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 871.96,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 68,
+    "avaliacao": 3.9,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 185,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 2337.81,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 448,
+    "avaliacao": 4.3,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 186,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 5702.28,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 404,
+    "avaliacao": 3.5,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 187,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 156.83,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 335,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 188,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 2961.93,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 79,
+    "avaliacao": 4.1,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 189,
+    "nome": "PlayStation 5",
+    "categoria": "Games",
+    "preco": 6854.32,
+    "marca": "Sony",
+    "descricao": "PlayStation 5 original da marca Sony",
+    "estoque": 216,
+    "avaliacao": 4.3,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 190,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 6064.28,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 211,
+    "avaliacao": 4.3,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 191,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 3024.68,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 284,
+    "avaliacao": 4.2,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 192,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 2820.41,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 361,
+    "avaliacao": 4.1,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 193,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 6007.73,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 228,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 194,
+    "nome": "Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 1794.22,
+    "marca": "Samsung",
+    "descricao": "Galaxy S23 original da marca Samsung",
+    "estoque": 205,
+    "avaliacao": 4.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 195,
+    "nome": "Tênis Ultraboost",
+    "categoria": "Moda",
+    "preco": 5606.75,
+    "marca": "Adidas",
+    "descricao": "Tênis Ultraboost original da marca Adidas",
+    "estoque": 361,
+    "avaliacao": 3.6,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 196,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 6454.52,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 421,
+    "avaliacao": 3.7,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 197,
+    "nome": "Air Fryer 4L",
+    "categoria": "Eletrodomésticos",
+    "preco": 796.31,
+    "marca": "Philips",
+    "descricao": "Air Fryer 4L original da marca Philips",
+    "estoque": 134,
+    "avaliacao": 3.8,
+    "tags": [
+      "mais vendidos"
+    ]
+  },
+  {
+    "id": 198,
+    "nome": "iPhone 14",
+    "categoria": "Eletrônicos",
+    "preco": 5823.51,
+    "marca": "Apple",
+    "descricao": "iPhone 14 original da marca Apple",
+    "estoque": 476,
+    "avaliacao": 5.0,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 199,
+    "nome": "Tênis Air Max",
+    "categoria": "Moda",
+    "preco": 2363.11,
+    "marca": "Nike",
+    "descricao": "Tênis Air Max original da marca Nike",
+    "estoque": 493,
+    "avaliacao": 4.4,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  },
+  {
+    "id": 200,
+    "nome": "Smart TV 50''",
+    "categoria": "Eletrônicos",
+    "preco": 5158.3,
+    "marca": "LG",
+    "descricao": "Smart TV 50'' original da marca LG",
+    "estoque": 224,
+    "avaliacao": 3.5,
+    "tags": [
+      "mais vendidos",
+      "promoção"
+    ]
+  }
+]
